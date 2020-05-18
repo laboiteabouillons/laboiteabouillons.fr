@@ -1,0 +1,419 @@
+---
+title: "Concentré d'intelligence collective"
+date: 2020-05-18T15:15:29+02:00
+draft: false
+author: Anne-Sophie Evrard
+image: 'images/landing/landing.jpg'
+image_smartphone_width: 'images/landing/landing_360x640.jpg'
+image_tablet_width: 'images/landing/landing_768x1024.jpg'
+image_screen_medium_width: 'images/landing/landing_1024x768.jpg'
+image_screen_large_width: 'images/landing/landing_1366x768.jpg'
+meta-description:
+  - Entrez dans La boite à bouillons pour découvrir votre concentré d'intelligence collective - Un projet vous anime particulièrement et vous souhaitez l'enrichir d'une vision collective pour élargir son impact dans l'action, pour améliorer la performance de vos équipes, les processus cadrés d'intelligence collective seront révélateurs de créativité et d'innovation.
+url: /esprit-de-la-boite
+---
+
+<div class="container celledGrid responsive-padding contentTopMargin">
+    <div class="row">
+        <div class="col-sm-12 col-md-4 col-lg-5">
+            <article>
+
+                <h1>
+                    L'esprit de La boite
+                </h1>
+
+                <p>
+                    <strong>Vous ne trouvez pas que les choses bougent ?</strong> que l'humain redevient un « être
+                    vivant », acteur au coeur des organisations ? Et oui, fondamentalement, l'humain aspire
+                    simplement à être heureux dans son quotidien professionnel, à s'investir et bien sûr, à se
+                    sentir utile pour son organisation et le collectif.
+                </p>
+
+                <p>
+                    <strong>Ce constat, nous sommes beaucoup à le faire tous les jours</strong> pour peu que l'on
+                    sorte un peu de ses habitudes pour observer ce qui se passe autour!
+                </p>
+
+                <p>
+                    <strong>C'est plutôt positif non?</strong> Mais du coup on se dit aussi que d'autres,
+                    beaucoup d'autres, passent encore à côté de quelque chose &#8230;
+                </p>
+
+                <p>
+                    <span style="color: #fec73e;"><strong>En 2020, La boite à bouillons lance un Collectif à
+                            l'esprit grand ouvert !</strong></span>
+                </p>
+
+                <p>
+                    Un collectif où chacun pourra démarrer sa réflexion personnelle parmi des thématiques
+                    pluridisciplinaires, mais également aller vers de nouvelles rencontres pro qui se transformeront
+                    peut être en partenariat, en mission&#8230;
+                </p>
+
+                <p>
+                    <a href="https://www.laboiteabouillons.fr/lesprit/">» En savoir plus sur l'Esprit de La
+                        boite</a>
+                </p>
+
+                <p>
+                    <a href="https://www.laboiteabouillons.fr/bouillon-evasion/">» Tout savoir sur le collectif</a>
+                </p>
+            </article>
+        </div>
+
+        <div class="col-sm-12 col-md-8 col-lg-7">
+            <article id="contentTwo">
+
+                <h1>
+                    Aujourd'hui vous diriez que vous êtes&#8230;?
+                </h1>
+
+                <div class="container centeredAlignedText celledGrid responsive-padding">
+                    <div class="row">
+                        <div class="col-sm-12 col-md">
+                            <section>
+                                <picture>
+                                    <source srcset="assets/img/pages/challenge/cpd100x100.webp" type="image/webp" /><img
+                                        class="circularPicto" src="assets/img/pages/challenge/cpd100x100.jpg"
+                                        alt="Alt Text!" /></picture>
+
+                                <h2>
+                                    Dirigeant, manager
+                                </h2>
+
+                                <p>
+                                    Observateur, curieux, à l'affût ?
+                                </p>
+                            </section>
+                        </div>
+
+                        <div class="col-sm-12 col-md">
+                            <section>
+                                <picture>
+                                    <source srcset="assets/img/pages/challenge/cpp100x100.webp" type="image/webp" /><img
+                                        class="circularPicto" src="assets/img/pages/challenge/cpp100x100.jpg"
+                                        alt="Alt Text!" /></picture>
+
+                                <h2>
+                                    Chef de projet
+                                </h2>
+
+                                <p>
+                                    Créatif, énergique, audacieux ?
+                                </p>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-12 col-md">
+                            <section>
+                                <picture>
+                                    <source srcset="assets/img/pages/challenge/cpc100x100.webp" type="image/webp" /><img
+                                        class="circularPicto" src="assets/img/pages/challenge/cpc100x100.jpg"
+                                        alt="Alt Text!" /></picture>
+
+                                <h2>
+                                    Consultant indépendant
+                                </h2>
+
+                                <p>
+                                    Ouvert, dynamique, ambitieux ?
+                                </p>
+                            </section>
+                        </div>
+
+                        <div class="col-sm-12 col-md">
+                            <section>
+                                <picture>
+                                    <source srcset="assets/img/pages/challenge/cpv100x100.webp" type="image/webp" /><img
+                                        class="circularPicto" src="assets/img/pages/challenge/cpv100x100.jpg"
+                                        alt="Alt Text!" /></picture>
+
+                                <h2>
+                                    mais VOUS aussi
+                                </h2>
+
+                                <p>
+                                    tel que vous êtes aujourd'hui! ?
+                                </p>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+
+                <p>
+                    <strong>Mais demain, qui serez-vous ? et quel sera votre challenge quotidien ?</strong> Notre statut
+                    professionnel, nos activités, nos postures évoluent et heureusement !
+                </p>
+
+                <p>
+                    <strong>La boite à bouillons aspire à faire émerger la force créative de cette diversité</strong>
+                    car nous avons tous beaucoup à appendre les uns des autres, il suffit de s'écouter, de
+                    rebondir sur une idée exprimée !
+                </p>
+
+                <p>
+                    <a href="https://www.laboiteabouillons.fr/votre-challenge/">» Votre challenge</a>
+                </p>
+            </article>
+        </div>
+    </div>
+</div>
+
+<!-- Content 3 -->
+<article class="contentTopMargin">
+
+    <div class="container responsive-padding centeredAlignedText">
+        <h1 class="">
+            Alors concrètement &#8230;
+        </h1>
+
+        <p class="">
+            Comment co-élaborer pour faire bouillonner l'intelligence collective, et donner du génie à vos idées ?
+            <strong>Le chemin le plus court existe t-il vraiment ?</strong>
+        </p>
+    </div>
+    <figure class="fullWidth">
+        <picture>
+            <source srcset="assets/img/pages/landing/zone\_challenge\_landingpage.jpg" media="(min-width: 1367px)" />
+            <source srcset="assets/img/pages/landing/zone\_challenge\_landingpage-1366x360.jpg"
+                media="(min-width: 1025px)" />
+            <source srcset="assets/img/pages/landing/zone\_challenge\_landingpage-1024x360.jpg"
+                media="(min-width: 769px)" />
+            <source srcset="assets/img/pages/landing/zone\_challenge\_landingpage-768x360.jpg"
+                media="(min-width: 425px)" />
+            <source srcset="assets/img/pages/landing/zone\_challenge\_landingpage-360x360.jpg"
+                media="(min-width: 300px)" />
+
+            ![!!!](assets/img/pages/landing/zone_challenge_landingpage.jpg) </picture>
+        <figcaption>Les chemins de traverses impliquent la réflexion et favorisent la créativité!</figcaption>
+    </figure>
+
+    <div class="container responsive-padding">
+        <div class="row">
+            <div class="col-sm-12 col-md-4 col-lg col-lg-offset-0 row">
+                <div class="card fluid equalCard">
+                    <div class="section">
+                        <p class="centeredAlignedText">
+                            <span style="color: #59bcab;"><em>«<strong>Vous avez à coeur de faire le pas de côté pour
+                                        aligner votre stratégie de développement avec votre singularité
+                                        ?</strong>»</em></span>
+                        </p>
+                    </div>
+
+                    <div class="section">
+                        <p class="centeredAlignedText">
+                            <strong>Le bouillon stratégique</strong> en accompagnement personnalisé &
+                        </p>
+
+                        <p class="centeredAlignedText">
+                            avec des processus d'intelligence collective
+                        </p>
+
+                        <ul>
+                            <li>
+                                Audit-diagnostic & bilan
+                            </li>
+                            <li>
+                                Poser les objectifs
+                            </li>
+                            <li>
+                                Définir votre stratégie globale
+                            </li>
+                            <li>
+                                Planifier les actions concrètes
+                            </li>
+                            <li>
+                                Evaluer, ajuster
+                            </li>
+                        </ul>
+
+                        <p>
+                            <a class="button"
+                                href="https://www.laboiteabouillons.fr/loffre-de-la-boite/accompagnement-communication/">En
+                                savoir +</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-md-4 col-lg col-lg-offset-0 row">
+                <div class="card fluid equalCard">
+                    <div class="section">
+                        <p class="centeredAlignedText">
+                            <em><span style="color: #59bcab;">« <strong>Vous avez à coeur de susciter l'adhésion,
+                                        d'éveiller la créativité collective dans la richesse de la rencontre
+                                        humaine ?</strong> »</span></em>
+                        </p>
+                    </div>
+
+                    <div class="section">
+                        <p class="centeredAlignedText">
+                            <strong>Le bouillon créatif</strong> Expérimenter la force du collectif avec des outils
+                            d'intelligence collective transposables
+                        </p>
+
+                        <ul>
+                            <li>
+                                Ateliers, Workshop sur mesure
+                            </li>
+                            <li>
+                                Intra : collectivités, asso, entreprises
+                            </li>
+                            <li>
+                                Co-élaboration avec des consultants experts
+                            </li>
+                            <li>
+                                Processus actifs d'intelligence collective
+                            </li>
+                            <li>
+                                Posture de facilitation
+                            </li>
+                        </ul>
+
+                        <p>
+                            <a class="button"
+                                href="https://www.laboiteabouillons.fr/loffre-de-la-boite/workshop-creatifs/">En savoir
+                                +</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-md-4 col-lg col-lg-offset-0 row">
+                <div class="card fluid equalCard">
+                    <div class="section">
+                        <p class="centeredAlignedText">
+                            <span style="color: #59bcab;"><em>« <strong>Vous avez à coeur de vivre et faire vivre des
+                                        événements pro qui donnent du sens à votre action ?</strong> »</em></span>
+                        </p>
+                    </div>
+
+                    <div class="section">
+                        <p class="centeredAlignedText">
+                            <strong>Le bouillon Festif</strong> Modélisation & organisation de vos événements
+                        </p>
+
+                        <p class="centeredAlignedText">
+                            avec un concentré d'intelligence collective !
+                        </p>
+
+                        <ul>
+                            <li>
+                                Analyse de l'existant
+                            </li>
+                            <li>
+                                Réflexion stratégique
+                            </li>
+                            <li>
+                                Modélisation de votre concept
+                            </li>
+                            <li>
+                                Sélection de prestataires
+                            </li>
+                            <li>
+                                Coordination logistique
+                            </li>
+                        </ul>
+
+                        <p>
+                            <a class="button"
+                                href="https://www.laboiteabouillons.fr/loffre-de-la-boite/formations-rseic/">En savoir
+                                +</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+
+<!-- Content 4,5 & 6 -->
+
+<div class="container celledGrid responsive-padding contentTopMargin">
+    <div class="row">
+        <div class="col-sm-12 col-md-4 col-lg-4 responsive-padding">
+            <article>
+
+                <h1>
+                    Les pépites de La boite
+                </h1>
+                <picture class="floatedImage">
+                    <source srcset="assets/img/pages/pepite/bulles150x150.webp" type="image/webp" />
+
+                    <img class="circularPicto" src="assets/img/pages/pepite/bulles150x150.png" alt="Alt Text!" />
+                </picture><strong>La boite à bouillons sait aussi bien s'entourer !! </strong>
+
+                <p>
+                </p>
+
+                <p>
+                    Mais les pépites ne restent pas longtemps cachées&#8230; alors ici <strong>on partage … des clients,
+                        des partenaires, des coups de coeur !</strong>
+                </p>
+
+                <p>
+                    <a href="https://www.laboiteabouillons.fr/les-pepites/">» Découvrir les pépites!</a>
+                </p>
+            </article>
+        </div>
+
+        <div class="col-sm-12 col-md-4 col-lg-4 responsive-padding">
+            <article>
+
+                <h1 class="">
+                    Le réseau de La boite
+                </h1>
+                <picture class="floatedImage">
+                    <source srcset="assets/img/pages/reseau/bulles150x150.webp" type="image/webp" />
+
+                    <img class="circularPicto rotatedImage" src="assets/img/pages/reseau/bulles150x150.png"
+                        alt="Alt Text!" /> </picture><strong>La boite à bouillons vous ouvre son réseau!</strong>
+
+                <p>
+                </p>
+
+                <p>
+                    Un réseau de richesses humaines qui repose sur la diversité et l'entraide professionnelle,
+                    dans l'esprit de La boite.
+                </p>
+
+                <p>
+                    <strong>C'est gratuit ! c'est open source ! SIMPLICITÉ et OUVERTURE sont les
+                        maîtres-mots.</strong>
+                </p>
+
+                <p>
+                    <a href="https://www.laboiteabouillons.fr/le-reseau/">» Le réseau de La boite, c'est par
+                        ici</a>
+                </p>
+            </article>
+        </div>
+
+        <div class="col-sm-12 col-md-4 col-lg-4 responsive-padding">
+            <article>
+
+                <h1>
+                    La fondatrice
+                </h1>
+                <picture class="floatedImage">
+                    <source srcset="assets/img/pages/fondatrice/fondatrice-90x90.webp" type="image/webp" />
+
+                    <img class="circularPicto" src="assets/img/pages/fondatrice/fondatrice-90x90.jpg" alt="Alt Text!" />
+                </picture>Comme disait Winston Churchill <q cite="https://www.winstonchurchill.org/">Un pessimiste voit
+                    la difficulté dans chaque opportunité, un optimiste voit l'opportunité dans chaque
+                    difficulté.</q> <strong>Mon ambition</strong>, et surtout ce qui m'anime aujourd'hui au
+                coeur de La boite à bouillons, <strong>c'est de vous enrichir de belles opportunités …</strong>.
+
+                <p>
+                </p>
+
+                <p>
+                    <a href="https://www.laboiteabouillons.fr/lesprit/la-fondatrice/">» En savoir + sur la
+                        fondatrice</a>
+                </p>
+            </article>
+        </div>
+    </div>
+</div>

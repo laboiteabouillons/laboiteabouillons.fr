@@ -1,0 +1,7 @@
+baseURL: "https://www.laboiteabouillons.fr/"
+languageCode: "fr-fr"
+title: "La boite à bouillons | Concentré d'intelligence collective"
+canonifyURLs: false
+defaultContentLanguage: "fr-fr"
+disablePathToLower: false
+enableRobotsTXT: true
