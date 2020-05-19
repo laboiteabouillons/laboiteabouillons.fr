@@ -1,19 +1,19 @@
 ---
-title: "Votre Challenge"
+title: Votre Challenge
 date: 2020-05-18T15:42:55+02:00
 draft: false
+type: page
 author: Anne-Sophie Evrard
-excerpt: 'Ecrire un résumé'
-image: 'images/challenge/challenge.jpg'
-image_smartphone_width: 'images/challenge/challenge_360x640.jpg'
-image_tablet_width: 'images/challenge/challenge_768x1024.jpg'
-image_screen_medium_width: 'images/challenge/challenge_1024x768.jpg'
-image_screen_large_width: 'images/challenge/challenge_1366x768.jpg'
+excerpt: ''
+image: 'challenge.jpg'
+image_smartphone_width: 'challenge_360x640.jpg'
+image_tablet_width: 'challenge_768x1024.jpg'
+image_screen_medium_width: 'challenge_1024x768.jpg'
+image_screen_large_width: 'challenge_1366x768.jpg'
 meta-description:
   - 'La boite à bouillons est ouverte à tous : porteurs de projets, dirigeants, managers, et encadrants, salariés, consultants indépendants… Un réseau de personnes en réflexion et en mouvement pour être acteurs et actrices de changements. Des synergies sont toujours possibles, c’est une question d’état d’esprit.'
 url: /esprit/votre-challenge
 ---
-
 <p style="padding-left: 30px;">
     <span style="color: #59bcab;"><q>La boite à bouillons aspire à faire émerger la force créative de la diversité car
             nous avons tous beaucoup à appendre les uns des autres,</q></span>

@@ -1,19 +1,19 @@
 ---
-title: "L'Esprit"
-date: 2020-05-18T15:35:05+02:00
+title: L'esprit
+date: 2020-05-18T15:42:38+02:00
 draft: false
+type: page
 author: Anne-Sophie Evrard
-excerpt: 'Ecrire un résumé'
-image: 'images/esprit/esprit.jpg'
-image_smartphone_width: 'images/esprit/esprit_360x640.jpg'
-image_tablet_width: 'images/esprit/esprit_768x1024.jpg'
-image_screen_medium_width: 'images/esprit/esprit_1024x768.jpg'
-image_screen_large_width: 'images/esprit/esprit_1366x768.jpg'
+excerpt: ''
+image: esprit.jpg
+image_smartphone_width: esprit_360x640.jpg
+image_tablet_width: esprit_768x1024.jpg
+image_screen_medium_width: esprit_1024x768.jpg
+image_screen_large_width: esprit_1366x768.jpg
 meta-description:
   - La boite à bouillons ambitionne de développer un état d'esprit positif grâce à des processus d'intelligence collective. Expérimenter l'audace en s'appuyant sur la force du collectif pour faire évoluer vos pratiques et créer le changement que vous souhaitez voir.
 url: /esprit
 ---
-
 <p style="padding-left: 30px;">
     Si <strong>LA BOITE A BOUILLONS</strong> est ouverte à tous, elle n&rsquo;hésitera pas à accueillir les sceptiques,
     les réticents, voire les découragés ! car son défi quotidien, in fine, c&rsquo;est de diffuser <strong>un état
@@ -45,5 +45,5 @@ de performance.
 **Anne-Sophie Evrard**
 
 <span style="color: #59bcab;"><a style="color: #59bcab;"
-        href="https://www.laboiteabouillons.fr/lesprit/la-fondatrice/"><span style="line-height: inherit;">» </span>En
+        href="https://www.laboiteabouillons.fr/esprit/la-fondatrice/"><span style="line-height: inherit;">» </span>En
         savoir plus sur la fondatrice</a></span>

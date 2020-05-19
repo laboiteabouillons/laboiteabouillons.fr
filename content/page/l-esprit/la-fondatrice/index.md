@@ -1,19 +1,19 @@
 ---
-title: "La Fondatrice"
+title: La Fondatrice
 date: 2020-05-18T15:42:38+02:00
 draft: false
+type: page
 author: Anne-Sophie Evrard
-excerpt: 'Ecrire un résumé'
-image: 'images/fondatrice/fondatrice.jpg'
-image_smartphone_width: 'images/fondatrice/fondatrice_360x640.jpg'
-image_tablet_width: 'images/fondatrice_768x1024.jpg'
-image_screen_medium_width: 'images/fondatrice/fondatrice_1024x768.jpg'
-image_screen_large_width: 'images/fondatrice/fondatrice_1366x768.jpg'
+excerpt: ''
+image: fondatrice.jpg
+image_smartphone_width: fondatrice_360x640.jpg
+image_tablet_width: fondatrice_768x1024.jpg
+image_screen_medium_width: fondatrice_1024x768.jpg
+image_screen_large_width: fondatrice_1366x768.jpg
 meta-description:
   - Anne-Sophie EVRARD est la fondatrice de La boite à bouillons. Elle est consultante en stratégie de communication, formatrice et facilitatrice experte des processus d'intelligence collective.
 url: /esprit/la-fondatrice
 ---
-
 <p style="padding-left: 60px;">
     <span style="color: #59bcab;"><q> Notre vie professionnelle est aussi une succession de portes que nous franchirons
             … ou pas!</q></span>
@@ -38,8 +38,6 @@ sens) et de promouvoir les projets et actions avec honnêteté et transparence.
     <q>La réussite professionnelle telle que je la conçois passe par le sentiment d&rsquo;engagement et des valeurs
         éthiques dans les pratiques.</q>
 </p>
-
-
 
 <p style="padding-left: 60px;">
     <q>L&rsquo;entreprise de demain sera éthique ou ne sera pas !</q>

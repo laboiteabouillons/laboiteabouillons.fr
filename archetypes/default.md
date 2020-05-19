@@ -11,5 +11,6 @@ image_tablet_width: 'images/'
 image_screen_medium_width: 'images/'
 image_screen_large_width: 'images/'
 meta-description: 'description'
-url: /
+slug: ''
+url: ''
 ---
