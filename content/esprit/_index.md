@@ -1,7 +1,7 @@
 ---
 title: "L'Esprit"
 date: 2020-05-18T15:35:05+02:00
-draft: true
+draft: false
 author: Anne-Sophie Evrard
 excerpt: 'Ecrire un résumé'
 image: 'images/esprit/esprit.jpg'

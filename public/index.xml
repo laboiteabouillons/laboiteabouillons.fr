@@ -1,14 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>La boite à bouillons | Concentré d&#39;intelligence collective</title>
+    <link>https://www.laboiteabouillons.fr/</link>
+    <description>Recent content on La boite à bouillons | Concentré d&#39;intelligence collective</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 18 May 2020 15:42:55 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.laboiteabouillons.fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Votre Challenge</title>
+      <link>https://www.laboiteabouillons.fr/esprit/votre-challenge/</link>
+      <pubDate>Mon, 18 May 2020 15:42:55 +0200</pubDate>
+      
+      <guid>https://www.laboiteabouillons.fr/esprit/votre-challenge/</guid>
+      <description>Aujourd’hui, vous êtes :Dirigeant, manager Vous pensez aussi que « La peur du changement nous pousse à l’inaction », que la créativité individuelle et collective est la clé de l’innovation et source de performance? Alors … la boite à bouillons vous donne les clés pour favoriser de véritables changements dans votre organisation.
+» Le bouillon créatif
+» Le bouillon festif
+Chef de projet, entrepreneur Vous avez plein d’idées qui fusent dans tous les sens !</description>
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>https://www.laboiteabouillons.fr/esprit/mentions-legales/</link>
+      <pubDate>Mon, 18 May 2020 15:42:47 +0200</pubDate>
+      
+      <guid>https://www.laboiteabouillons.fr/esprit/mentions-legales/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>La Fondatrice</title>
+      <link>https://www.laboiteabouillons.fr/esprit/la-fondatrice/</link>
+      <pubDate>Mon, 18 May 2020 15:42:38 +0200</pubDate>
+      
+      <guid>https://www.laboiteabouillons.fr/esprit/la-fondatrice/</guid>
+      <description>Après un cursus universitaire en sciences économiques et sociales puis infocom, j’ai évolué de nombreuses années dans le secteur de la communication (publique puis privée) guidée par la volonté d’apporter du sens (et du bons sens) et de promouvoir les projets et actions avec honnêteté et transparence.
+Par curiosité et afin d’enrichir mon expertise de communicante, j’ai suivi un cursus de formation pour animer l’intelligence collective. Conceptuel pensez-vous? Non bien sûr, l’intelligence collective existe depuis l’origine de l’Homme, mais disons que celui-ci n’a pas toujours su la mettre en action pour servir l’intérêt général.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Esprit</title>
+      <link>https://www.laboiteabouillons.fr/esprit/</link>
+      <pubDate>Mon, 18 May 2020 15:35:05 +0200</pubDate>
+      
+      <guid>https://www.laboiteabouillons.fr/esprit/</guid>
+      <description>La vision de La boite à bouillons, c’est de permettre aux curieux d’expérimenter, de découvrir ce qui se passe …. quand on modifie le cadre ! Quand on ose un peu plus tous les jours ! Tout simplement, quand on s’ouvre à des méthodes simples qui donnent une large part à la puissance du collectif mais en toute sérénité grâce aux processus de la facilitation.
+La mission de La boite à bouillons, c’est de créer des espaces temps pour agiter gentiment les méninges, (les miennes, les vôtres, les leurs !</description>
+    </item>
+    
+    <item>
+      <title>Concentré d&#39;intelligence collective</title>
+      <link>https://www.laboiteabouillons.fr/esprit-de-la-boite/</link>
+      <pubDate>Mon, 18 May 2020 15:15:29 +0200</pubDate>
+      
+      <guid>https://www.laboiteabouillons.fr/esprit-de-la-boite/</guid>
+      <description>&amp;lt;h1&amp;gt; L&#39;esprit de La boite &amp;lt;/h1&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Vous ne trouvez pas que les choses bougent ?&amp;lt;/strong&amp;gt; que l&#39;humain redevient un « être vivant », acteur au coeur des organisations ? Et oui, fondamentalement, l&#39;humain aspire simplement à être heureux dans son quotidien professionnel, à s&#39;investir et bien sûr, à se sentir utile pour son organisation et le collectif. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Ce constat, nous sommes beaucoup à le faire tous les jours&amp;lt;/strong&amp;gt; pour peu que l&#39;on sorte un peu de ses habitudes pour observer ce qui se passe autour!</description>
+    </item>
     
   </channel>
 </rss>

@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+type: ''
 author: Anne-Sophie Evrard
 excerpt: 'Ecrire un résumé'
 image: 'images/'
