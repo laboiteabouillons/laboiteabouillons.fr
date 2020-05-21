@@ -1,16 +1,14 @@
 ---
 title: Concentré d'intelligence collective
-date: 2020-05-18T15:42:38+02:00
 draft: false
-type: homepage
-author: Anne-Sophie Evrard
-excerpt: ''
-image: landing.jpg'
+type: home
+keywords: ''
+image: landing.jpg
 image_smartphone_width: landing_360x640.jpg
 image_tablet_width: landing_768x1024.jpg
 image_screen_medium_width: landing_1024x768.jpg
 image_screen_large_width: landing_1366x768.jpg
-meta-description:
+summary:
   - Entrez dans La boite à bouillons pour découvrir votre concentré d'intelligence collective - Un projet vous anime particulièrement et vous souhaitez l'enrichir d'une vision collective pour élargir son impact dans l'action, pour améliorer la performance de vos équipes, les processus cadrés d'intelligence collective seront révélateurs de créativité et d'innovation.
 url: /
 ---

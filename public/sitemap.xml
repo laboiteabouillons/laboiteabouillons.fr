@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.laboiteabouillons.fr/page/</loc>
-    <lastmod>2020-05-18T15:42:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/esprit/votre-challenge/</loc>
-    <lastmod>2020-05-18T15:42:55+02:00</lastmod>
+    <loc>https://www.laboiteabouillons.fr/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.laboiteabouillons.fr/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.laboiteabouillons.fr/esprit/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.laboiteabouillons.fr/la-fondatrice/</loc>
     <lastmod>2020-05-18T15:42:47+02:00</lastmod>
   </url>
   
@@ -23,51 +28,33 @@
   </url>
   
   <url>
+    <loc>https://www.laboiteabouillons.fr/bouillon-festif/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.laboiteabouillons.fr/bouillon-strategique/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.laboiteabouillons.fr/bouillon-creatif/bouillon-evasion/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.laboiteabouillons.fr/le-reseau/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.laboiteabouillons.fr/mentions-legales/</loc>
     <lastmod>2020-05-18T15:42:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.laboiteabouillons.fr/</loc>
-    <lastmod>2020-05-18T15:42:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/esprit/</loc>
-    <lastmod>2020-05-18T15:42:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/esprit/la-fondatrice/</loc>
-    <lastmod>2020-05-18T15:42:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/bouillon-festif/</loc>
-    <lastmod>2020-05-18T15:42:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/bouillon-strategique/</loc>
-    <lastmod>2020-05-18T15:42:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/le-reseau/</loc>
-    <lastmod>2020-05-18T15:42:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/bouillon-evasion/</loc>
-    <lastmod>2020-05-09T18:36:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.laboiteabouillons.fr/tags/</loc>
+    <loc>https://www.laboiteabouillons.fr/votre-challenge/</loc>
+    <lastmod>2020-05-18T15:42:47+02:00</lastmod>
   </url>
   
 </urlset>

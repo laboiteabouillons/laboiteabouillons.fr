@@ -1,18 +1,12 @@
 ---
 title: Mentions légales
-date: 2020-05-18T15:42:47+02:00
 draft: false
-type: page
-author: Anne-Sophie Evrard
-excerpt: ''
-image: ''
-image_smartphone_width: ''
-image_tablet_width: ''
-image_screen_medium_width: ''
-image_screen_large_width: ''
-meta-description:
+keywords: ''
+summary:
   - Les mentions légales du site de La boite à bouillons, concentré d'intelligence collective. Fondatrice Anne-Sophie Evrard.
 url: /mentions-legales
+aliases:
+  - /lesprit/mentions-legales/
 ---
 <address>
     La boite à bouillons est membre de la coopérative d&rsquo;activité et d&#8217;emploi <a

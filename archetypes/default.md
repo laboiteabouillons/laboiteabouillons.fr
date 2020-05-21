@@ -4,13 +4,15 @@ date: {{ .Date }}
 draft: true
 type: ''
 author: Anne-Sophie Evrard
-excerpt: 'Ecrire un résumé'
-image: 'images/'
-image_smartphone_width: 'images/'
-image_tablet_width: 'images/'
-image_screen_medium_width: 'images/'
-image_screen_large_width: 'images/'
-meta-description: 'description'
+hero:
+  src: 'images/_.jpg'
+  smartphone: 'images/_360x640.jpg'
+  tablet: 'images/_768x1024.jpg'
+  medium: 'images/_1024x768.jpg'
+  large: 'images/_1366x768.jpg'
+  alt: ''
+  caption: ''
+summary: 'description'
 slug: ''
 url: ''
 ---

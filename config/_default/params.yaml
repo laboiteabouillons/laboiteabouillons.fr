@@ -1,0 +1,8 @@
+params:
+  - since: 2018
+  - name: "La boite à bouillons Hugo site"
+  - description: "La boite à bouillons HUGO website"
+  - github_user: "https://github.com/ojullien"
+  - github_repo: "https://github.com/laboiteabouillons/laboiteabouillons.fr"
+  - github_banner: true
+  - favicon: "favicon.ico"

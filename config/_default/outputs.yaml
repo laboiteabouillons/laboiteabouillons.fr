@@ -1,0 +1,14 @@
+#outputFormats: # use for search. recommend not to modify
+#  SearchIndex:
+#    mediaType: "application/json"
+#    baseName: "searchindex"
+#    isPlainText: true
+#    notAlternative: true
+
+# recommend not to modify ["HTML", "RSS", "SearchIndex"]
+outputs:
+  home:
+    - HTML
+    - RSS
+  page:
+    - HTML
