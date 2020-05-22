@@ -1,12 +1,13 @@
 ---
 title: "Le bouillon festif"
+type: page
 draft: false
 hero:
-  src: 'images/formation.jpg'
-  smartphone: 'images/formation_360x640.jpg'
-  tablet: 'images/formation_768x1024.jpg'
-  medium: 'images/formation_1024x768.jpg'
-  large: 'images/formation_1366x768.jpg'
+  src: '/bouillon-festif/images/formation.jpg'
+  smartphone: '/bouillon-festif/images/formation_360x640.jpg'
+  tablet: '/bouillon-festif/images/formation_768x1024.jpg'
+  medium: '/bouillon-festif/images/formation_1024x768.jpg'
+  large: '/bouillon-festif/images/formation_1366x768.jpg'
   alt: 'La boite à bouillons conceptualise vos événements pro'
   caption: 'Pour être irremplaçable, il faut être différente - Coco Chanel.'
 Description: "Les formations-actions de La boite à bouillons abordent un contenu thématique en associant des processus d'intelligence collective. Les stagiaires montent en compétence sur des thématiques stratégiques pour l'organisation et sont en capacité d'accompagner leurs équipes dans la conduite de changement avec des méthodes d'intelligence collective opérationnelles et efficaces."

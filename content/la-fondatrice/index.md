@@ -1,12 +1,13 @@
 ---
 title: "La Fondatrice"
+type: page
 draft: false
 hero:
-  src: 'images/fondatrice.jpg'
-  smartphone: 'images/v_360x640.jpg'
-  tablet: 'images/fondatrice_768x1024.jpg'
-  medium: 'images/fondatrice_1024x768.jpg'
-  large: 'images/fondatrice_1366x768.jpg'
+  src: '/la-fondatrice/images/fondatrice.jpg'
+  smartphone: '/la-fondatrice/images/v_360x640.jpg'
+  tablet: '/la-fondatrice/images/fondatrice_768x1024.jpg'
+  medium: '/la-fondatrice/images/fondatrice_1024x768.jpg'
+  large: '/la-fondatrice/images/fondatrice_1366x768.jpg'
   alt: "Portrait de la fondatrice de La boite à bouillons"
   caption: "Oscillation  - par l'atelier Vecteur …. une succession de portes en bois qui forment un passage à travers le quartier de la création à Nantes. Une immersion qui invite au voyage et à la réflexion..."
 Description: "Anne-Sophie EVRARD est la fondatrice de La boite à bouillons. Elle est consultante en stratégie de communication, formatrice et facilitatrice experte des processus d'intelligence collective."

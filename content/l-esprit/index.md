@@ -1,12 +1,13 @@
 ---
 title: "L'esprit"
+type: page
 draft: false
 hero:
-  src: 'images/esprit.jpg'
-  smartphone: 'images/esprit_360x640.jpg'
-  tablet: 'images/esprit_768x1024.jpg'
-  medium: 'images/esprit_1024x768.jpg'
-  large: 'images/esprit_1366x768.jpg'
+  src: '/l-esprit/images/esprit.jpg'
+  smartphone: '/l-esprit/images/esprit_360x640.jpg'
+  tablet: '/l-esprit/images/esprit_768x1024.jpg'
+  medium: '/l-esprit/images/esprit_1024x768.jpg'
+  large: '/l-esprit/images/esprit_1366x768.jpg'
   alt: "L'esprit de La boite à bouillons"
   caption: "La créativité implique de briser les conventions afin de regarder les choses sous un jour nouveau - Edward De Bono."
 Description: "La boite à bouillons ambitionne de développer un état d'esprit positif grâce à des processus d'intelligence collective. Expérimenter l'audace en s'appuyant sur la force du collectif pour faire évoluer vos pratiques et créer le changement que vous souhaitez voir."

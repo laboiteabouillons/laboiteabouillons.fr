@@ -1,12 +1,13 @@
 ---
 title: "Le bouillon évasion"
+type: page
 draft: false
 hero:
-  src: 'images/evasion.jpg'
-  smartphone: 'images/evasion_360x640.jpg'
-  tablet: 'images/evasion_768x1024.jpg'
-  medium: 'images/evasion_1024x768.jpg'
-  large: 'images/evasion_1366x768.jpg'
+  src: '/bouillon-evasion/images/evasion.jpg'
+  smartphone: '/bouillon-evasion/images/evasion_360x640.jpg'
+  tablet: '/bouillon-evasion/images/evasion_768x1024.jpg'
+  medium: '/bouillon-evasion/images/evasion_1024x768.jpg'
+  large: '/bouillon-evasion/images/evasion_1366x768.jpg'
   alt: "Au bout du chemin se trouve votre porte bleu"
   caption: "Combien de fois abandonnons-nous notre chemin, attirés par l'éclat trompeur du chemin d'à côté ? Paulo Coelho"
 Description: ""

@@ -1,5 +1,5 @@
 baseURL: "https://www.laboiteabouillons.fr"
-title: "La boite à bouillons | Concentré d'intelligence collective"
+title: "La boite à bouillons"
 theme: lbab-hugo
 hasCJKLanguage: false
 enableEmoji: true
@@ -9,6 +9,5 @@ disablePathToLower: false
 enableRobotsTXT: true
 pygmentsCodefences: true
 pygmentsStyle: "vs"
-author:
-  name: "Anne-Sophie Evrard"
+author: "Anne-Sophie Evrard"
 copyright: "Copyright © 2020, Anne-Sophie Evrard, tous droits réservés."

@@ -3,11 +3,11 @@ title: "Concentré d'intelligence collective"
 draft: false
 type: home
 hero:
-  src: 'images/landing.jpg'
-  smartphone: 'images/landing_360x640.jpg'
-  tablet: 'images/landing_768x1024.jpg'
-  medium: 'images/landing_1024x768.jpg'
-  large: 'images/landing_1366x768.jpg'
+  src: '/images/landing.jpg'
+  smartphone: '/images/landing_360x640.jpg'
+  tablet: '/images/landing_768x1024.jpg'
+  medium: '/images/landing_1024x768.jpg'
+  large: '/images/landing_1366x768.jpg'
   alt: "Femme habillée de bleu et en bottes marrons marchant le long d'un container orange orné du logo de la boite à bouillons."
   caption: "Livraison de créativité pour la boite à bouillons!"
 Description: "Entrez dans La boite à bouillons pour découvrir votre concentré d'intelligence collective - Un projet vous anime particulièrement et vous souhaitez l'enrichir d'une vision collective pour élargir son impact dans l'action, pour améliorer la performance de vos équipes, les processus cadrés d'intelligence collective seront révélateurs de créativité et d'innovation."
