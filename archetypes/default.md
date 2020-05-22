@@ -12,7 +12,17 @@ hero:
   large: 'images/_1366x768.jpg'
   alt: ''
   caption: ''
-summary: 'description'
+Description : 'description'
+summary: 'summary'
+  - ''
+Tags:
+  - ''
+Categories:
+  - ''
+keywords:
+ - ''
 slug: ''
 url: ''
+aliases:
+  - ''
 ---

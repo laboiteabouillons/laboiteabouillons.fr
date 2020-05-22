@@ -1,6 +1,7 @@
 .vscode/
-resources/
-public/
+/resources/
+/public/
+/public/*
 *.log
 local.*
 desktop.ini
