@@ -1,14 +1,15 @@
 ---
-title: Le réseau
+title: "Le réseau"
 draft: false
-keywords: ''
-image: reseau.jpg
-image_smartphone_width: reseau_360x640.jpg
-image_tablet_width: reseau_768x1024.jpg
-image_screen_medium_width: reseau_1024x768.jpg
-image_screen_large_width: reseau_1366x768.jpg
-summary:
-  - Le réseau nantais de La boite à bouillons souhaite rendre dynamiques et conviviaux les échanges professionnels. Un réseau d'entraide et de partage de contacts, d'actualités nourrit par la diversité de ses membres. Un réseau nantais gratuit et ouvert à tous qui rime avec simplicité et ouverture d'esprit.
+hero:
+  src: 'images/reseau.jpg'
+  smartphone: 'images/reseau_360x640.jpg'
+  tablet: 'images/reseau_768x1024.jpg'
+  medium: 'images/reseau_1024x768.jpg'
+  large: 'images/reseau_1366x768.jpg'
+  alt: "Rejoignez le réseau très ouvert de La boite à bouillons"
+  caption: "Aucun de nous, en agissant seul, ne peut atteindre le succès – Nelson Mandela."
+Description: "Le réseau nantais de La boite à bouillons souhaite rendre dynamiques et conviviaux les échanges professionnels. Un réseau d'entraide et de partage de contacts, d'actualités nourrit par la diversité de ses membres. Un réseau nantais gratuit et ouvert à tous qui rime avec simplicité et ouverture d'esprit."
 url: /le-reseau
 ---
 <p style="padding-left: 30px;">

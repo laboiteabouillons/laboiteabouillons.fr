@@ -1,14 +1,15 @@
 ---
-title: Le bouillon créatif
+title: "Le bouillon créatif"
 draft: false
-keywords: ''
-image: workshop.jpg
-image_smartphone_width: workshop_360x640.jpg
-image_tablet_width: workshop_768x1024.jpg
-image_screen_medium_width: workshop_1024x768.jpg
-image_screen_large_width: workshop_1366x768.jpg
-summary:
-  - Les workshops créatifs de La boite à bouillons propose une mise en action collective autour d'une thématique précise. Ces ateliers actifs proposent des temps de partages, d'expérimentation favorisant la prise de recul. A l'issue des séquences, les participants ont une vision élargie sur la problématique et disposent de méthodes collaboratives facile à mettre en place dans leur organisation.
+hero:
+  src: 'images/workshop.jpg'
+  smartphone: 'images/workshop_360x640.jpg'
+  tablet: 'images/workshop_768x1024.jpg'
+  medium: 'images/workshop_1024x768.jpg'
+  large: 'images/workshop_1366x768.jpg'
+  alt: "La boite à bouillons propose des workshops créatifs qui mixent contenus et intelligence collective"
+  caption: "Sans ouverture d'esprit, le succès est impossible – Martha Stewart."
+Description: "Les workshops créatifs de La boite à bouillons propose une mise en action collective autour d'une thématique précise. Ces ateliers actifs proposent des temps de partages, d'expérimentation favorisant la prise de recul. A l'issue des séquences, les participants ont une vision élargie sur la problématique et disposent de méthodes collaboratives facile à mettre en place dans leur organisation."
 url: /bouillon-creatif
 aliases:
   - /workshop-creatifs

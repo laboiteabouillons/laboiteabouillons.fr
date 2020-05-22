@@ -1,14 +1,15 @@
 ---
 title: Votre Challenge
 draft: false
-keywords: ''
-image: 'challenge.jpg'
-image_smartphone_width: 'challenge_360x640.jpg'
-image_tablet_width: 'challenge_768x1024.jpg'
-image_screen_medium_width: 'challenge_1024x768.jpg'
-image_screen_large_width: 'challenge_1366x768.jpg'
-summary:
-  - 'La boite à bouillons est ouverte à tous : porteurs de projets, dirigeants, managers, et encadrants, salariés, consultants indépendants… Un réseau de personnes en réflexion et en mouvement pour être acteurs et actrices de changements. Des synergies sont toujours possibles, c’est une question d’état d’esprit.'
+hero:
+  src: 'images/challenge.jpg'
+  smartphone: 'images/challenge_360x640.jpg'
+  tablet: 'images/challenge_768x1024.jpg'
+  medium: 'images/challenge_1024x768.jpg'
+  large: 'images/challenge_1366x768.jpg'
+  alt: "La boite à bouillons propose des workshops créatifs qui mixent contenus et intelligence collective"
+  caption: "Quel est votre challenge quotidien ? La boite à bouillons associe l'intelligence collective pour le réaliser."
+Description: "Ils ne savaient pas que c’était impossible, alors ils l’ont fait – Mark Twain"
 url: /votre-challenge
 ---
 <p style="padding-left: 30px;">

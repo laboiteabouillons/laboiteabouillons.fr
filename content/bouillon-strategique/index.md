@@ -1,14 +1,15 @@
 ---
-title: Le bouillon stratégique
+title: "Le bouillon stratégique"
 draft: false
-keywords: ''
-image: accomp_com.jpg
-image_smartphone_width: accomp_com_360x640.jpg
-image_tablet_width: accomp_com_768x1024.jpg
-image_screen_medium_width: accomp_com_1024x768.jpg
-image_screen_large_width: accomp_com_1366x768.jpg
-summary:
-  - 'L''accompagnement communication de La boite à bouillons prend forme à travers trois formules : la formule lancement, la formule essentielle et la formule tranquillité. Pour chacune, la méthode de La boite à bouillons est d''associer le collectif avec des processus d''intelligence collective qui permettent de faire mûrir votre projet en phase avec votre profil et vos aspirations profondes. A terme, l''objectif principal est de vous donner les clés de votre communication pour avancer en toute autonomie et en confiance.'
+hero:
+  src: 'images/accomp_com.jpg'
+  smartphone: 'images/accomp_com_360x640.jpg'
+  tablet: 'images/accomp_com_768x1024.jpg'
+  medium: 'images/accomp_com_1024x768.jpg'
+  large: 'images/accomp_com_1366x768.jpg'
+  alt: "La boite à bouillons accompagne votre entreprise dans sa réflexion stratégique de développement"
+  caption: "La stratégie, c'est l'art de faire face à son destin – Peter Drucker."
+Description: "L'accompagnement communication de La boite à bouillons prend forme à travers trois formules : la formule lancement, la formule essentielle et la formule tranquillité. Pour chacune, la méthode de La boite à bouillons est d'associer le collectif avec des processus d'intelligence collective qui permettent de faire mûrir votre projet en phase avec votre profil et vos aspirations profondes. A terme, l'objectif principal est de vous donner les clés de votre communication pour avancer en toute autonomie et en confiance."
 url: /bouillon-strategique
 aliases:
   - /accompagnement-communication

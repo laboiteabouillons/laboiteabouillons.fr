@@ -1,14 +1,15 @@
 ---
-title: L'esprit
+title: "L'esprit"
 draft: false
-keywords: ''
-image: esprit.jpg
-image_smartphone_width: esprit_360x640.jpg
-image_tablet_width: esprit_768x1024.jpg
-image_screen_medium_width: esprit_1024x768.jpg
-image_screen_large_width: esprit_1366x768.jpg
-summary:
-  - La boite à bouillons ambitionne de développer un état d'esprit positif grâce à des processus d'intelligence collective. Expérimenter l'audace en s'appuyant sur la force du collectif pour faire évoluer vos pratiques et créer le changement que vous souhaitez voir.
+hero:
+  src: 'images/esprit.jpg'
+  smartphone: 'images/esprit_360x640.jpg'
+  tablet: 'images/esprit_768x1024.jpg'
+  medium: 'images/esprit_1024x768.jpg'
+  large: 'images/esprit_1366x768.jpg'
+  alt: "L'esprit de La boite à bouillons"
+  caption: "La créativité implique de briser les conventions afin de regarder les choses sous un jour nouveau - Edward De Bono."
+Description: "La boite à bouillons ambitionne de développer un état d'esprit positif grâce à des processus d'intelligence collective. Expérimenter l'audace en s'appuyant sur la force du collectif pour faire évoluer vos pratiques et créer le changement que vous souhaitez voir."
 url: /esprit
 aliases :
   - /lesprit
