@@ -1,31 +1,36 @@
 menu:
   main:
     - identifier: home
-      name: Home
-      title: Home
+      name: Accueil
       url: /
-      weight: 1
+      weight: 10
 
-    - identifier: archives
-      name: Archives
-      title: Archives
-      url: /posts/
-      weight: 2
+    - identifier: esprit
+      name: "L'esprit"
+      url: /esprit/
+      weight: 20
 
-    - identifier: categories
-      name: Categories
-      title: Categories
-      url: /categories/
-      weight: 3
+    - identifier: bouillon-strategique
+      name: "Le bouillon stratégique"
+      url: /bouillon-strategique/
+      weight: 30
 
-    - identifier: tags
-      name: Tags
-      title: Tags
-      url: /tags/
-      weight: 4
+    - identifier: bouillon-creatif
+      name: "Le bouillon créatif"
+      url: /bouillon-creatif/
+      weight: 40
 
-    - identifier: about
-      name: About
-      title: About
-      url: /about/
-      weight: 5
+    - identifier: bouillon-festif
+      name: "Le bouillon festif"
+      url: /bouillon-festif/
+      weight: 50
+
+    - identifier: les-pepites
+      name: "Les pépites"
+      url: /les-pepites/
+      weight: 60
+
+    - identifier: le-reseau
+      name: "Le réseau"
+      url: /le-reseau/
+      weight: 70

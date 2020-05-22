@@ -1,3 +1,6 @@
 log: true
 logFile: "debug.log"
-verbose : true
+verbose: true
+
+params:
+  - debug: true
