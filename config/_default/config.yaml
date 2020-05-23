@@ -190,6 +190,21 @@ menu:
       url: /le-reseau/
       weight: 70
 #
+# Configure OUTPUT
+#outputFormats: # use for search. recommend not to modify
+#  SearchIndex:
+#    mediaType: "application/json"
+#    baseName: "searchindex"
+#    isPlainText: true
+#    notAlternative: true
+# recommend not to modify ["HTML", "RSS", "SearchIndex"]
+outputs:
+  home:
+    - HTML
+    - RSS
+  page:
+    - HTML
+#
 # Configure permalinks
 #
 # Specifies which permalink(s) Hugo uses when rendering the content. If we don't set this option, pages render with
