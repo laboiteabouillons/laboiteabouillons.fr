@@ -1,13 +1,246 @@
+# Defines the hostname and path to the root of our website, like "http://www.example.com/" or "https://demo.example.com/".
 baseURL: "https://www.laboiteabouillons.fr"
+# Defines the website name
 title: "La boite à bouillons"
+# Theme to use (located by default in /themes/THEMENAME/).
 theme: lbab-hugo
-hasCJKLanguage: false
-enableEmoji: true
-googleAnalytics: "" # UA-XXXXXXXX-X
-canonifyURLs: false
-disablePathToLower: false
+# Specifies the Google Analytics ID (for example, "UA-12345768-1"). The theme files can then pull this ID from the Hugo
+#  configuration file.
+googleAnalytics: "UA-12345768-1"
+#
+# Configure Build
+#
+# Makes Hugo turn drafted content into static website pages.
+buildDrafts: false
+# Lets Hugo turn expired content (relative to the current date) into website pages.
+buildExpired: false
+# Makes Hugo render content scheduled for the future (compared to the current date).
+buildFuture: false
+# Makes Hugo empty the destination directory to which it renders the website with each build. (By default, that folder
+# is /public/ but we can change that with the publishDir configuration variable.)
+cleanDestinationDir: true
+# Disables that Hugo inserts the generator meta tag on the website's homepage.
+# That tag looks like <meta content="Hugo 0.23" name="generator">, and helps the Hugo project members from tracking its
+# usage and popularity.
+disableHugoGeneratorInject: false
+# Specifies what kind of pages Hugo should not render.
+# This setting requires an array, and possible values are: "page", "home", "section", "taxonomy", "taxonomyTerm", "RSS",
+# "sitemap", "robotsTXT", "404". For example, with disableKinds set to ["section", "RSS"] Hugo will not generate section
+# and RSS pages.
+disableKinds:
+  - "section"
+  - "taxonomy"
+  - "taxonomyTerm"
+# Disables Hugo's LiveReload when serving a website (which we do with hugo server from the command line). With
+# LiveReload enabled, Hugo inserts a bit of JavaScript in every page. That script creates a connection between the
+# browser's web socket client and the Hugo web socket server. Through that connection Hugo forces the browser to reload
+# the page or static files each time Hugo renders content again or synchronises static files.
+# This way the browser page automatically refreshes when content changes.
+disableLiveReload: false
+# Enable generation of robots.txt file.
 enableRobotsTXT: true
-pygmentsCodefences: true
-pygmentsStyle: "vs"
-author: "Anne-Sophie Evrard"
-copyright: "Copyright © 2020, Anne-Sophie Evrard, tous droits réservés."
+# Makes Hugo copy over all static files when it detects a change in the static files. With the false default value, Hugo
+# only synchronises the changed file(s).
+forceSyncStatic: true # !!!!!
+# Don’t sync permission mode of files.
+noChmod: false
+# Don’t sync modification time of files.
+noTimes: false
+# Makes Hugo pluralise list titles. For instance, the list page for the taxonomy term ‘Book’ will be named ‘Books’ then.
+pluralizeListTitles: true
+# Maximum number of items in the RSS feed.
+#rssLimit: 15
+# The length of text in words to show in a .Summary.
+summaryLength: 70
+# Timeout for generating page contents, in milliseconds (defaults to 10 seconds). Note: this is used to bail out of
+# recursive content generation, if your pages are slow to generate (e.g., because they require large image processing
+# or depend on remote contents) you might need to raise this limit.
+timeout: 10000
+# Specifies which title case style the title function should use. Possible values include "Chicago"
+# (for Chicago Manual of Style capitalisation), "AP" (to capitalise words with Associated Press styling), and "Go" to
+# capitalise the first letter of every word.
+titleCaseStyle: "AP"
+#
+# Configure File Caches
+#
+# Sets the file system folder in which Hugo caches downloaded files. When our theme files use an online file
+# (like a JSON or CSV file), Hugo stores that file in this directory.
+# This makes subsequent website builds quicker because Hugo doesn't have to download the file each time.
+# (See the ignoreCache configuration variable to turn this off.)
+#cacheDir= ''
+# Makes Hugo ignores the cache directory. In that folder, it stores files downloaded from the internet. If we disable
+# the cache, each website build uses an up-to-date file. But each build will also be slower (since Hugo has to fetch
+# those online files every time it renders the website).
+ignoreCache: true
+#S pecifies the files Hugo should ignore when rendering the website. This configuration variable accepts regular
+# expressions too. For instance, to ignore PNG and JPEG files when our configuration file uses the TOML format, we use
+# the following setting for ignoreFiles: ["\\.png$", "\\.jpeg$"].
+ignoreFiles: []
+#
+# Configure content
+#
+# Enables including emojis in our content files.
+enableEmoji: false
+# Enable inline shortcode support.
+enableInlineShortcodes: false
+# Specifies a string that Hugo should insert before the footnote anchors. Those anchors appear in the HTML code of the
+# page, and render from the footnotes used in the content file.
+footnoteAnchorPrefix: ""
+# Defines the link text that Hugo inserts after the footnote. That text appears in the generated list of footnotes and
+# refers back to where the footnote is in the text. Examples for this configuration variable include "[return]" and "?".
+footnoteReturnLinkContents: ""
+# Specifies the content editor with which to edit newly created files. This setting has to refer to an editor on your PATH variable. Then when we create a new file with hugo new, Hugo opens the content file with the editor of our choice.
+newContentEditor: ""
+# Sets the number of entries that appear on a paginated page.
+paginate: 10
+# Defines the slug Hugo uses with paginated list pages. By default, those pages render as /page/1/, /page/2/, and so on.
+paginatePath: "page"
+#
+# Configure Front Matter
+#
+#frontmatter:
+# Configure Dates
+#  date:
+#    - "date"
+#    - "publishDate"
+#    - "lastmod"
+#  lastmod:
+#    - ":git"
+#    - "lastmod"
+#    - "date"
+#    - "publishDate"
+#  publishDate:
+#    - "publishDate"
+#    - "date"
+#  expiryDate:
+#    - "expiryDate"
+# If you, as an example, have a non-standard date parameter in some of your content, you can override the setting for date:
+# date:
+#  - "myDate"
+#  - ":default"
+#
+# Configure GIT
+#
+# Turns on the Git info feature, which allows us to access Git revision information in theme files
+# (like the author's name, email, hash, and date).
+enableGitInfo: true
+#
+# Language
+#
+# Specifies the default content language. Content without a translation associated with it defaults to this language.
+defaultContentLanguage: "fr"
+# Specifies the default language code for the website. Our theme files can then use that language code in the header and
+# RSS feed.
+languageCode: "fr-fr"
+# The site’s language name.
+languageName: "fr"
+# You can disable one or more languages. This can be useful when working on a new translation.
+#disableLanguages: []
+# Lets Hugo auto-detect Chinese, Japanese, and Korean languages in the content. That way the .Summary and .WordCount
+# page variables work correctly for those character-based languages.
+hasCJKLanguage: false
+# Renders the default content language in a subdirectory (like /en/) of the website URL.
+# That URL then redirects to the directory of the default content language.
+# So with the baseURL variable set to http://demo.example.com and defaultContentLanguageInSubdir enabled, the content
+# files in the default language don't render at http://demo.example.com but at http://demo.example.com/en/.
+defaultContentLanguageInSubdir: false
+# Makes Hugo shows a placeholder instead of the default value or empty string when a translation is missing.
+enableMissingTranslationPlaceholders: false
+#
+# Section Menu for Lazy Bloggers
+#
+# When set to a text value, lets Hugo generate a default site menu that contains all website sections. We can then use
+# that menu name in our theme files to access the menu.
+#sectionPagesMenu: "main"
+#
+menu:
+  main:
+    - identifier: home
+      name: Accueil
+      url: /
+      weight: 10
+
+    - identifier: esprit
+      name: "L'esprit"
+      url: /esprit/
+      weight: 20
+
+    - identifier: bouillon-strategique
+      name: "Le bouillon stratégique"
+      url: /bouillon-strategique/
+      weight: 30
+
+    - identifier: bouillon-creatif
+      name: "Le bouillon créatif"
+      url: /bouillon-creatif/
+      weight: 40
+
+    - identifier: bouillon-festif
+      name: "Le bouillon festif"
+      url: /bouillon-festif/
+      weight: 50
+
+    - identifier: les-pepites
+      name: "Les pépites"
+      url: /les-pepites/
+      weight: 60
+
+    - identifier: le-reseau
+      name: "Le réseau"
+      url: /le-reseau/
+      weight: 70
+#
+# Configure permalinks
+#
+# Specifies which permalink(s) Hugo uses when rendering the content. If we don't set this option, pages render with
+# permalinks based on how they're organised in our /content/ folder. That is, /content/blog/new-hugo-site.md would
+# render with the /blog/new-hugo-site/ permalink.
+#permalinks:
+#  posts: /:year/:month/:title/
+#
+# Configure sitemap.xml
+#
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+#
+# Configure Taxonomy
+#
+# Specifies the name and plural form of the taxonomies used by Hugo. Those plural forms are, for instance, used with
+# the taxonomy list pages. Usually you'll see the tag key here with the "tags" value and the category key with the
+# "categories" value.
+taxonomies:
+  category: categories
+  pepite: pepites
+#
+# Configure URL
+#
+# Lets Hugo canonicalise URLs. With the default value of false, relative URLs like /css/style.css are kept in the
+# output rendered by Hugo.
+# If we set canonifyURLs to true, /css/style.css gets prefixed with the current baseURL setting.
+# (The relative URL then gets canonicalised to something like http://www.example.com/css/style.css.)
+canonifyURLs: true
+# Prevents Hugo from generating aliases. (In Hugo, an alias creates a redirect to a content page.)
+disableAliases: true
+# Disables converting URLs to lower case when the original content includes uppercase characters.
+# With disablePathToLower set to true the content's URL can be /blog/deploy-Hugo-to-AWS-S3/. Otherwise, Hugo would by
+# default make the URL /blog/deploy-hugo-to-aws-s3/.
+disablePathToLower: false
+# Enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs: false
+# URL to be used as a placeholder when a page reference cannot be found in ref or relref. Is used as-is.
+#refLinksNotFoundURL
+# Makes Hugo render files with ‘ugly’ permalinks. For instance, /blog/my-first-post.html instead of /blog/my-first-post/.
+uglyURLs: false
+#
+params:
+  since: 2018
+  github_user: "https://github.com/ojullien"
+  github_repo: "https://github.com/laboiteabouillons/laboiteabouillons.fr"
+  github_banner: true
+  favicon: "favicon.ico"
+  pygmentsCodefences: true
+  pygmentsStyle: "vs"
+  author: "Anne-Sophie Evrard"
+  copyright: "Copyright © 2020, Anne-Sophie Evrard, tous droits réservés."

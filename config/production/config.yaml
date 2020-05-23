@@ -1,0 +1,13 @@
+# Enables logging. Unless we set the log file's location with the logFile variable, that log appears in the
+# system-dependent temporary folder. For Windows, that's C:\Users\[Username]\AppData\Local\Temp. The log appears in a
+# file named hugo followed by a numerical value (like hugo047340211).
+log: false
+# Specifies the log file path. When this configuration variable is set, logging is automatically enabled.
+#logFile: ""
+# Enable verbose output.
+verbose: false
+# Enable verbose logging.
+verboseLog: false
+# When using ref or relref to resolve page links and a link cannot resolved, it will be logged with this logg level.
+# Valid values are ERROR (default) or WARNING. Any ERROR will fail the build (exit -1).
+refLinksErrorLevel: “ERROR”

@@ -1,7 +1,0 @@
-baseURL: ""
-log: true
-logFile: "debug.log"
-verbose: true
-
-params:
-  - debug: true

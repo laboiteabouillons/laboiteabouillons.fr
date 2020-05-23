@@ -1,0 +1,43 @@
+# Defines the hostname and path to the root of our website, like "http://www.example.com/" or "https://demo.example.com/".
+baseURL: ""
+# Lets Hugo canonicalise URLs. With the default value of false, relative URLs like /css/style.css are kept in the
+# output rendered by Hugo.
+# If we set canonifyURLs to true, /css/style.css gets prefixed with the current baseURL setting.
+# (The relative URL then gets canonicalised to something like http://www.example.com/css/style.css.)
+canonifyURLs: false
+# Prevents Hugo from generating aliases. (In Hugo, an alias creates a redirect to a content page.)
+disableAliases: false
+# Enables logging. Unless we set the log file's location with the logFile variable, that log appears in the
+# system-dependent temporary folder. For Windows, that's C:\Users\[Username]\AppData\Local\Temp. The log appears in a
+# file named hugo followed by a numerical value (like hugo047340211).
+log: true
+# Specifies the log file path. When this configuration variable is set, logging is automatically enabled.
+#logFile: ""
+# When using ref or relref to resolve page links and a link cannot resolved, it will be logged with this logg level.
+# Valid values are ERROR (default) or WARNING. Any ERROR will fail the build (exit -1).
+refLinksErrorLevel: “ERROR”
+# Makes the hugo command print extensive (verbose) information to the terminal window. That output contains warnings
+# and general information about the building process.
+verbose: true
+# Lets Hugo log extensive (verbose) information to a file. The file location is set with the logFile configuration
+# variable or defaults to the system-dependent temporary folder otherwise. On Windows, the default location
+# is C:\Users\[username]\AppData\Local\Temp\ and default file name is hugo followed by a numerical value.
+verboseLog: true
+#pygmentsCodeFences
+#    Default: false
+#    Makes Hugo add Pygments syntax highlighting to content files that use GitHub code fences. That way we can define code blocks with three ` instead of the default #~~~ for Markdown files.
+#pygmentsCodeFencesGuessSyntax
+#    Default: false
+#    Makes the Pygments code highlighter add-on guess the programming language that's used in code fences that don't specify a language.
+#pygmentsOptions
+#    Default: ""
+#    Specifies Pygments code highlighting settings. For example, with "linenos=inline" Pygments puts line numbers inside the <pre> tag (instead of creating a table with line numbers and code in separate columns).
+#pygmentsStyle
+#    Default: "monokai"
+#    Defines the syntax highlighting theme used for the Pygments code highlighter add-on.
+#pygmentsUseClasses
+#    Default: false
+#    Makes the Pygments code highlighter use CSS classes for its formatting (instead of colour codes inserted into the HTML directly).
+#removePathAccents
+#    Default: false
+#    Makes Hugo remove special characters from URL paths. When set to true, the cinéma-soundtrack-hélène-grimaud.md content file will, for example, render with the /#cinema-soundtrack-helene-grimaud/ slug.

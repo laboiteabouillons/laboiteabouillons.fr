@@ -19,6 +19,8 @@ Tags:
   - ''
 Categories:
   - ''
+pepites:
+  - ''
 keywords:
  - ''
 slug: ''
