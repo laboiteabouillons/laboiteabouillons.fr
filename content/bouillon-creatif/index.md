@@ -15,53 +15,38 @@ url: /bouillon-creatif
 aliases:
   - /workshop-creatifs
 ---
-<p style="padding-left: 30px;">
-    <span style="color: #0d4952;"><q>Comment booster la cohésion de mon équipe grâce à ce beau projet ?</q></span>
-</p>
+{{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Comment booster la cohésion de mon équipe grâce à ce beau projet ?{{< /quote/color >}}{{< /paragraph >}}
 
-<p style="padding-left: 30px;">
-    <span style="color: #0d4952;"><q>Et si on avait tout simplement besoin de mieux se connaître pour être plus
-            performant ?</q></span>
-</p>
+{{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Et si on avait tout simplement besoin de mieux se connaître pour être plus performant ?{{< /quote/color >}}{{< /paragraph >}}
 
-<p style="padding-left: 30px;">
-    <span style="color: #0d4952;"><q>Que puis-je faire pour rendre confiant mes collaborateurs dans leur capacité à se
-            dépasser ?</q></span> <span style="color: #c5b286;">  </span>
-</p>
+{{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Que puis-je faire pour rendre confiant mes collaborateurs dans leur capacité à se dépasser ?{{< /quote/color >}}{{< /paragraph >}}
 
 Ce genre de questions vous vient à l’esprit ? Vous y êtes presque !
 
-<span style="color: #000000;"><strong>Alors, osez ! Expérimentez d’autres méthodes simples et efficaces pour re-motiver
-        les troupes !</strong></span>
+**{{< span/color "#000000" >}}Alors, osez ! Expérimentez d’autres méthodes simples et efficaces pour re-motiver les troupes !{{< /span/color >}}**
 
-<span style="color: #0d4952;"><strong>La mission de La boite à bouillons, dans sa proposition de bouillon créatif, sera
-        d&rsquo;amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le
-        « faire ensemble » .</strong></span>
-
-
+**{{< span/color "#0d4952" >}}La mission de La boite à bouillons, dans sa proposition de bouillon créatif, sera d&rsquo;amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble ».{{< /span/color >}}**
 
 Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop
 ou séminaire. Une boite à outils* bien fournie permettra de proposer plusieurs approches et spécificités selon la
 problématique (l’appui de partenaires pourra compléter la proposition).
 
-<span style="color: #696a6c;"><strong>Ainsi, dans une approche pluridisciplinaire, vous aurez des clés pour permettre
-        l’échange de pratiques, la prise de recul et l’initiative de vos équipes. </strong></span>
+**{{< span/color "#696a6c" >}}Ainsi, dans une approche pluridisciplinaire, vous aurez des clés pour permettre l’échange de pratiques, la prise de recul et l’initiative de vos équipes.{{< /span/color >}}**
 
 La proposition du bouillon créatif sera personnalisée et nécessite un rendez-vous d’écoute active avant de faire une
 proposition chiffrée.
 
 ### A coeur ouvert, quelques retours clients :
 
-_« En quoi la proposition de La boite à bouillons vous a aidé ? Qu&rsquo;est-ce que vous en retenez ? »_
+***« En quoi la proposition de La boite à bouillons vous a aidé ? Qu&rsquo;est-ce que vous en retenez ? »***
 
 Marine
 
 « _Les ateliers se sont proposés à moi dans une période singulière d&rsquo;installation sur Nantes. Ils ont été un
 catalyseur de rencontres, de soutien et de mise en réseau pour imaginer et impulser une dynamique à mon projet
-professionnel en gestation. Ils m&rsquo;ont procuré de l&rsquo;énergie, de la motivation et de l&rsquo;élan._ » <span
-    style="color: #0d4952;"><strong>Stéphanie Royané, Formatrice.</strong></span>
+professionnel en gestation. Ils m&rsquo;ont procuré de l&rsquo;énergie, de la motivation et de l&rsquo;élan._ » **{{< span/color "#0d4952" >}}Stéphanie Royané, Formatrice.{{< /span/color >}}**
 
-Sandrine
+« _L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois !_ » **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
 
 Florence (workshop échec)
 
