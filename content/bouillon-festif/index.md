@@ -41,14 +41,22 @@ L&rsquo;accompagnement de La boite à bouillons pourra se faire à la carte : de
 
 **_« Qu&rsquo;avez-vous particulièrement aimé dans les événements conçus par La boite à bouillons » ? »_**
 
-_« J&rsquo;ai participé à un afterworkshop sur la thématique de la réussite d&rsquo;un projet. Le format stimulant et créatif, les rencontres, m&rsquo;ont nourri et beaucoup plu, tout comme l&rsquo;ambiance et la convivialité. La boite à bouillons porte bien son nom&#8230;.bouillon d&rsquo;idées, de partages, de créativité ! »_ **{{< span/color "#e9325d" >}}Florence Dupire, [profil IN](https://www.linkedin.com/in/florencedupirecom/){{< /span/color >}}**
+{{< testimonial color="#e9325d" author="Florence Dupire" sitename="profil IN" siteurl="https://www.linkedin.com/in/florencedupirecom/" >}}
+« J&rsquo;ai participé à un afterworkshop sur la thématique de la réussite d&rsquo;un projet. Le format stimulant et créatif, les rencontres, m&rsquo;ont nourri et beaucoup plu, tout comme l&rsquo;ambiance et la convivialité. La boite à bouillons porte bien son nom&#8230;.bouillon d&rsquo;idées, de partages, de créativité ! »
+{{< /testimonial >}}
 
-_« L&rsquo;opportunité de la rencontre, le partage d&rsquo;expériences à travers des échanges orchestrés avec bienveillance et créativité grâce aux supports issus de l&rsquo;Intelligence Collective. Une attention particulière est accordée à l&rsquo;accueil, l&rsquo;organisation des ateliers et la convivialité. »_ **{{< span/color "#e9325d" >}}Stéphanie Royané, Formatrice{{< /span/color >}}**
+{{< testimonial color="#e9325d" author="Stéphanie Royané" sitename="Formatrice">}}
+« L&rsquo;opportunité de la rencontre, le partage d&rsquo;expériences à travers des échanges orchestrés avec bienveillance et créativité grâce aux supports issus de l&rsquo;Intelligence Collective. Une attention particulière est accordée à l&rsquo;accueil, l&rsquo;organisation des ateliers et la convivialité. »
+{{< /testimonial >}}
 
-_« Anne-Sophie a un véritable talent pour organiser des rencontres professionnelles.&nbsp; Elle anime le groupe avec bienveillance et savoir-faire. C’est l’assurance de passer un moment sympathique avec des rencontres constructives. »_ **{{< span/color "#e9325d" >}}Karine Pasco, [Kapyrus](https://kapyrus.com/){{< /span/color >}}**
+{{< testimonial color="#e9325d" author="Karine Pasco" sitename="Kapyrus" siteurl="https://kapyrus.com/" >}}
+« Anne-Sophie a un véritable talent pour organiser des rencontres professionnelles.&nbsp; Elle anime le groupe avec bienveillance et savoir-faire. C’est l’assurance de passer un moment sympathique avec des rencontres constructives. »
+{{< /testimonial >}}
 
-_« Je suis venue à « l&rsquo;afterworkshop de La boite à bouillons » sur l&rsquo;invitation d&rsquo;une connaissance, par curiosité, alors que les outils d&rsquo;intelligence collective m&rsquo;intéressent et que j&rsquo;étais dans une période d&rsquo;ouverture à de nouveaux partenariats pour ma récente activité de médiatrice. J&rsquo;ai apprécié la convivialité et le respect qui s&rsquo;est dégagé des échanges rapides et structurés que cela a permis entre personnes ne se connaissant pas sur des sujets nous tenant à cœur. J&rsquo;ai été encore plus étonnée de la pertinence de cette proposition lorsque, plusieurs mois après, je recevais un petit rappel me permettant de mesurer et d&rsquo;apprécier le chemin parcouru depuis dans mes questionnements d&rsquo;alors. »_ **{{< span/color "#e9325d" >}}Carine Bastin Lynott, Médiatrice{{< /span/color >}}**
-
-{{< paragraph >}}{{< small >}}\*La boite à outils du bouillon créatif ne se dévoile pas à ce stade mais elle offrira toute la panoplie de jeux ludiques ou plus sérieux, d&rsquo;activités créatives, sportives ou culturelles, &#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.{{< /small >}}{{< /paragraph >}}
+{{< testimonial color="#e9325d" author="Carine Bastin Lynott" sitename="Médiatrice">}}
+« Je suis venue à « l&rsquo;afterworkshop de La boite à bouillons » sur l&rsquo;invitation d&rsquo;une connaissance, par curiosité, alors que les outils d&rsquo;intelligence collective m&rsquo;intéressent et que j&rsquo;étais dans une période d&rsquo;ouverture à de nouveaux partenariats pour ma récente activité de médiatrice. J&rsquo;ai apprécié la convivialité et le respect qui s&rsquo;est dégagé des échanges rapides et structurés que cela a permis entre personnes ne se connaissant pas sur des sujets nous tenant à cœur. J&rsquo;ai été encore plus étonnée de la pertinence de cette proposition lorsque, plusieurs mois après, je recevais un petit rappel me permettant de mesurer et d&rsquo;apprécier le chemin parcouru depuis dans mes questionnements d&rsquo;alors. »
+{{< /testimonial >}}
 
 {{< paragraph >}}{{< span/color "#e9325d" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
+
+{{< paragraph >}}{{< small >}}\*La boite à outils du bouillon créatif ne se dévoile pas à ce stade mais elle offrira toute la panoplie de jeux ludiques ou plus sérieux, d&rsquo;activités créatives, sportives ou culturelles, &#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.{{< /small >}}{{< /paragraph >}}

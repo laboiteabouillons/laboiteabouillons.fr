@@ -40,9 +40,13 @@ La proposition du bouillon créatif sera personnalisée et nécessite un rendez-
 
 Marine
 
-_« Les ateliers se sont proposés à moi dans une période singulière d’installation sur Nantes. Ils ont été un catalyseur de rencontres, de soutien et de mise en réseau pour imaginer et impulser une dynamique à mon projet professionnel en gestation. Ils m’ont procuré de l’énergie, de la motivation et de l’élan. »_ **{{< span/color "#0d4952" >}}Stéphanie Royané, Formatrice{{< /span/color >}}**
+{{< testimonial color="#0d4952" author="Stéphanie Royané" sitename="Formatrice">}}
+« Les ateliers se sont proposés à moi dans une période singulière d’installation sur Nantes. Ils ont été un catalyseur de rencontres, de soutien et de mise en réseau pour imaginer et impulser une dynamique à mon projet professionnel en gestation. Ils m’ont procuré de l’énergie, de la motivation et de l’élan. »
+{{< /testimonial >}}
 
-_« L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois ! »_ **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
+{{< testimonial color="#0d4952" author="Sandrine Colle" sitename="ReNEZsens" siteurl="https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs" >}}
+« L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois ! »
+{{< /testimonial >}}
 
 Florence (workshop échec)
 

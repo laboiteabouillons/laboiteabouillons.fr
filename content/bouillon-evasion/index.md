@@ -38,9 +38,13 @@ Une offre totalement sur mesure « *YEU LIBERTÉ* » pourra être co-construit
 
 **_« Qu&rsquo;avez-vous aimé, apprécié dans le séminaire « Yeu évasion » ? »_**
 
-_« J&rsquo;ai aimé l&rsquo;apparente simplicité de l&rsquo;approche, qui a permis au groupe d&rsquo;aller travailler en profondeur son projet dans sa double dimension personnelle et professionnelle. Anne-Sophie a su créer les conditions de la confiance entre les participants au travail. J&rsquo;ai apprécié la générosité de l&rsquo;approche qui a ouvert à la nature et au territoire et nous a ainsi emmené à voir plus grand. Désormais ça bouillonne !! »_ **{{< span/color "#fec73e" >}}Marion, En projet{{< /span/color >}}**
+{{< testimonial color="#fec73e" author="Marion" sitename="En projet" >}}
+« J&rsquo;ai aimé l&rsquo;apparente simplicité de l&rsquo;approche, qui a permis au groupe d&rsquo;aller travailler en profondeur son projet dans sa double dimension personnelle et professionnelle. Anne-Sophie a su créer les conditions de la confiance entre les participants au travail. J&rsquo;ai apprécié la générosité de l&rsquo;approche qui a ouvert à la nature et au territoire et nous a ainsi emmené à voir plus grand. Désormais ça bouillonne !! »
+{{< /testimonial >}}
 
-_« Séminaire réalisé dans un cadre somptueux, enlevé par la force tellurique de la nature en bord d&rsquo;océan. Expérience feutrée car insulaire, sensible, généreuse, gourmande, souriante… Chevauchées fantasques à vélo&#8230; Pour partir à la découverte de parts de soi et à la rencontre de l&rsquo;altérité. Partage complice dans le respect des parcours de chacun. Richesse des émotions et force de la réflexion. Un havre de sérénité qui m&rsquo;a redonné énergie et élan de vie. Un immense MERCI à Anne-Sophie pour son accueil qui lui ressemble emprunt de simplicité, de générosité souriante, d&rsquo;attention et d&rsquo;écoute de l&rsquo;autre. Je rêve d&rsquo;un prochain séjour sur Yeu. »_ **{{< span/color "#fec73e" >}}Stéphanie Royané, Formatrice{{< /span/color >}}**
+{{< testimonial color="#fec73e" author="Stéphanie Royané" sitename="Formatrice" >}}
+« Séminaire réalisé dans un cadre somptueux, enlevé par la force tellurique de la nature en bord d&rsquo;océan. Expérience feutrée car insulaire, sensible, généreuse, gourmande, souriante… Chevauchées fantasques à vélo&#8230; Pour partir à la découverte de parts de soi et à la rencontre de l&rsquo;altérité. Partage complice dans le respect des parcours de chacun. Richesse des émotions et force de la réflexion. Un havre de sérénité qui m&rsquo;a redonné énergie et élan de vie. Un immense MERCI à Anne-Sophie pour son accueil qui lui ressemble emprunt de simplicité, de générosité souriante, d&rsquo;attention et d&rsquo;écoute de l&rsquo;autre. Je rêve d&rsquo;un prochain séjour sur Yeu. »
+{{< /testimonial >}}
 
 Sophie
 

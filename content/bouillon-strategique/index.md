@@ -38,10 +38,14 @@ Après un bilan de votre situation particulière, nous conviendrons d&rsquo;un p
 
 **_« Quels ont été les effets de l&rsquo;accompagnement de La boite à bouillons sur votre stratégie de développement ? »_**
 
-_« L’accompagnement de la boîte à Bouillon a été fondamental sur ma stratégie de développement. Cela m’a donné une orientation forte et une légitimité que je n’arrivais pas à trouver. Je sais mieux mettre en avant mes actions et les vendre. »_ **{{< span/color "#59bcab" >}}Carolle Perraud &#8211; [Cabinet Rêvell&rsquo;action](https://www.revellaction.fr/){{< /span/color >}}**
+{{< testimonial color="#59bcab" author="Carolle Perraud" sitename="Cabinet Rêvell&rsquo;action" siteurl="https://www.revellaction.fr/" >}}
+« L’accompagnement de la boîte à Bouillon a été fondamental sur ma stratégie de développement. Cela m’a donné une orientation forte et une légitimité que je n’arrivais pas à trouver. Je sais mieux mettre en avant mes actions et les vendre. »
+{{< /testimonial >}}
 
 Elaine
 
-_« Grâce à Anne-Sophie, son écoute et ses compétences, j’ai osé me lancer, avec plus de confiance et de légitimité. Cela m’a beaucoup aidé à me positionner, à mettre en avant mon offre avec plus de crédibilité et à être plus aligné avec ce que je suis ! Merci Anne Sophie. »_ **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
+{{< testimonial color="#59bcab" author="Sandrine Colle" sitename="ReNEZsens" siteurl="https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs" >}}
+« Grâce à Anne-Sophie, son écoute et ses compétences, j’ai osé me lancer, avec plus de confiance et de légitimité. Cela m’a beaucoup aidé à me positionner, à mettre en avant mon offre avec plus de crédibilité et à être plus aligné avec ce que je suis ! Merci Anne Sophie. »
+{{< /testimonial >}}
 
 {{< paragraph >}}{{< small >}}\*La boite à outils, c’est une posture adaptée à chaque type de situation (conseil, animation, facilitation, coaching) et des supports ou outils choisis en conséquence, qui favorisent la créativité, déploient un espace d’intelligence collective et permettent la prise de décision.{{< /small >}}{{< /paragraph >}}
