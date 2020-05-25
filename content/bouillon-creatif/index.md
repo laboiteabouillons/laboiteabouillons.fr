@@ -28,14 +28,11 @@ Ce genre de questions vous vient à l’esprit ? Vous y êtes presque !
 
 **{{< span/color "#0d4952" >}}La mission de La boite, dans sa proposition de BOUILLON CRÉATIF, sera d’amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble ».{{< /span/color >}}**
 
-Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop
-ou séminaire. Une boite à outils\* bien fournie permettra de proposer plusieurs approches et spécificités selon la
-problématique (l’appui de partenaires pourra compléter la proposition).
+Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop ou séminaire. Une boite à outils\* bien fournie permettra de proposer plusieurs approches et spécificités selon la problématique (l’appui de partenaires pourra compléter la proposition).
 
 **{{< span/color "#696a6c" >}}Ainsi, dans une approche pluridisciplinaire, vous aurez des clés pour permettre l’échange de pratiques, la prise de recul et l’initiative de vos équipes.{{< /span/color >}}**
 
-La proposition du bouillon créatif sera personnalisée et nécessite un rendez-vous d’écoute active avant de faire une
-proposition chiffrée.
+La proposition du bouillon créatif sera personnalisée et nécessite un rendez-vous d’écoute active avant de faire une proposition chiffrée.
 
 ### A coeur ouvert, quelques retours clients :
 
@@ -43,11 +40,9 @@ proposition chiffrée.
 
 Marine
 
-« *Les ateliers se sont proposés à moi dans une période singulière d’installation sur Nantes. Ils ont été un
-catalyseur de rencontres, de soutien et de mise en réseau pour imaginer et impulser une dynamique à mon projet
-professionnel en gestation. Ils m’ont procuré de l’énergie, de la motivation et de l’élan.* » **{{< span/color "#0d4952" >}}Stéphanie Royané, Formatrice.{{< /span/color >}}**
+_« Les ateliers se sont proposés à moi dans une période singulière d’installation sur Nantes. Ils ont été un catalyseur de rencontres, de soutien et de mise en réseau pour imaginer et impulser une dynamique à mon projet professionnel en gestation. Ils m’ont procuré de l’énergie, de la motivation et de l’élan. »_ **{{< span/color "#0d4952" >}}Stéphanie Royané, Formatrice{{< /span/color >}}**
 
-« *L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois !* » **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
+_« L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois ! »_ **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
 
 Florence (workshop échec)
 
