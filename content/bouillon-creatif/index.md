@@ -3,11 +3,11 @@ title: "Le bouillon créatif"
 type: page
 draft: false
 hero:
-  src: '/bouillon-creatif/images/workshop.jpg'
-  smartphone: '/bouillon-creatif/images/workshop_360x640.jpg'
-  tablet: '/bouillon-creatif/images/workshop_768x1024.jpg'
-  medium: '/bouillon-creatif/images/workshop_1024x768.jpg'
-  large: '/bouillon-creatif/images/workshop_1366x768.jpg'
+  src: "/bouillon-creatif/images/workshop.jpg"
+  smartphone: "/bouillon-creatif/images/workshop_360x640.jpg"
+  tablet: "/bouillon-creatif/images/workshop_768x1024.jpg"
+  medium: "/bouillon-creatif/images/workshop_1024x768.jpg"
+  large: "/bouillon-creatif/images/workshop_1366x768.jpg"
   alt: "La boite à bouillons propose des workshops créatifs qui mixent contenus et intelligence collective"
   caption: "Sans ouverture d'esprit, le succès est impossible – Martha Stewart."
 Description: "Les workshops créatifs de La boite à bouillons propose une mise en action collective autour d'une thématique précise. Ces ateliers actifs proposent des temps de partages, d'expérimentation favorisant la prise de recul. A l'issue des séquences, les participants ont une vision élargie sur la problématique et disposent de méthodes collaboratives facile à mettre en place dans leur organisation."
@@ -15,6 +15,7 @@ url: /bouillon-creatif
 aliases:
   - /workshop-creatifs
 ---
+
 {{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Comment booster la cohésion de mon équipe grâce à ce beau projet ?{{< /quote/color >}}{{< /paragraph >}}
 
 {{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Et si on avait tout simplement besoin de mieux se connaître pour être plus performant ?{{< /quote/color >}}{{< /paragraph >}}
@@ -25,10 +26,10 @@ Ce genre de questions vous vient à l’esprit ? Vous y êtes presque !
 
 **{{< span/color "#000000" >}}Alors, osez ! Expérimentez d’autres méthodes simples et efficaces pour re-motiver les troupes !{{< /span/color >}}**
 
-**{{< span/color "#0d4952" >}}La mission de La boite à bouillons, dans sa proposition de bouillon créatif, sera d&rsquo;amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble ».{{< /span/color >}}**
+**{{< span/color "#0d4952" >}}La mission de La boite, dans sa proposition de BOUILLON CRÉATIF, sera d’amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble ».{{< /span/color >}}**
 
 Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop
-ou séminaire. Une boite à outils* bien fournie permettra de proposer plusieurs approches et spécificités selon la
+ou séminaire. Une boite à outils\* bien fournie permettra de proposer plusieurs approches et spécificités selon la
 problématique (l’appui de partenaires pourra compléter la proposition).
 
 **{{< span/color "#696a6c" >}}Ainsi, dans une approche pluridisciplinaire, vous aurez des clés pour permettre l’échange de pratiques, la prise de recul et l’initiative de vos équipes.{{< /span/color >}}**
@@ -38,35 +39,30 @@ proposition chiffrée.
 
 ### A coeur ouvert, quelques retours clients :
 
-***« En quoi la proposition de La boite à bouillons vous a aidé ? Qu&rsquo;est-ce que vous en retenez ? »***
+**_« En quoi la proposition de La boite à bouillons vous a aidé ? Qu’est-ce que vous en retenez ? »_**
 
 Marine
 
-« _Les ateliers se sont proposés à moi dans une période singulière d&rsquo;installation sur Nantes. Ils ont été un
+« *Les ateliers se sont proposés à moi dans une période singulière d’installation sur Nantes. Ils ont été un
 catalyseur de rencontres, de soutien et de mise en réseau pour imaginer et impulser une dynamique à mon projet
-professionnel en gestation. Ils m&rsquo;ont procuré de l&rsquo;énergie, de la motivation et de l&rsquo;élan._ » **{{< span/color "#0d4952" >}}Stéphanie Royané, Formatrice.{{< /span/color >}}**
+professionnel en gestation. Ils m’ont procuré de l’énergie, de la motivation et de l’élan.* » **{{< span/color "#0d4952" >}}Stéphanie Royané, Formatrice.{{< /span/color >}}**
 
-« _L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois !_ » **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
+« *L’atelier créatif, riche en contenu, m’a beaucoup inspiré, et m’a permis de révéler le nom de ma société. Je recommande La boîte à bouillons pour les compétences, la pertinence et l’originalité de l’expérience via l’atelier créatif, ludique et professionnel à la fois !* » **{{< span/color "#0d4952" >}}Sandrine Colle, [ReNEZsens](https://www.facebook.com/SandrineCollereflexologue/?ref=br_rs){{< /span/color >}}**
 
 Florence (workshop échec)
 
-<span style="color: #0d4952;"><span style="line-height: inherit;">» </span><a style="color: #0d4952;"
-        href="https://www.laboiteabouillons.fr/le-reseau/"><span style="line-height: inherit;">Contactez La
-            boite</span></a></span>
+{{< paragraph >}}{{< span/color "#0d4952" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
 
-<small>*La boite à outils dits « d&rsquo;intelligence collective » se déclinent en outils d&rsquo;inter-connaissance, de
-    brainstorming, d&rsquo;échange, de restitution, de mise en situation, de positionnement et de débriefing. Ces outils
-    donnent une place importante au partage, à l&rsquo;expérimentation, à la prise de recul.</small>
+{{< paragraph >}}{{< small >}}\*La boite à outils dits « d’intelligence collective » se déclinent en outils d’inter-connaissance, de
+brainstorming, d’échange, de restitution, de mise en situation, de positionnement et de débriefing. Ces outils
+donnent une place importante au partage, à l’expérimentation, à la prise de recul.{{< /small >}}{{< /paragraph >}}
 
-## <span style="font-family: Calibri, sans-serif; color: #0d4952;">Une envie d’évasion créative ?</span>
+## {{< span/color "#0d4952" >}}Une envie d’évasion créative ?{{< /span/color >}}
 
-**<span style="font-family: 'Calibri',sans-serif;">Imaginez ….</span>**
+**Imaginez ….**
 
-**<span style="font-family: 'Calibri',sans-serif;">Un temps d’évasion…. Un temps d’évasion-réflexion sur une île à 2h de
-    Nantes</span>**
+**Un temps d’ÉVASION…. Un temps d’évasion-réflexion sur une ÎLE à 2h de Nantes**
 
-**<span style="font-family: 'Calibri',sans-serif;">Un temps entre parenthèse, un temps suspendu avec du bleu à l’infini
-    dans un cadre presque familial pour revenir à l’essentiel &#8230;</span>**
+**Un temps entre parenthèse, un temps suspendu avec du bleu à l’infini dans un cadre presque familial pour revenir à l’essentiel &#8230;**
 
-[<span style="color: #0d4952;">» En savoir plus sur Le bouillon
-    évasion</span>](https://www.laboiteabouillons.fr/bouillon-creatif/bouillon-evasion/)
+{{< paragraph >}}{{< span/color "#0d4952" >}}» [En savoir plus sur Le bouillon évasion](/bouillon-evasion/){{< /span/color >}}{{< /paragraph >}}
