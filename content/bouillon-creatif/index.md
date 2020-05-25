@@ -26,9 +26,9 @@ Ce genre de questions vous vient à l’esprit ? Vous y êtes presque !
 
 **{{< span/color "#000000" >}}Alors, osez ! Expérimentez d’autres méthodes simples et efficaces pour re-motiver les troupes !{{< /span/color >}}**
 
-**{{< span/color "#0d4952" >}}La mission de La boite, dans sa proposition de BOUILLON CRÉATIF, sera d’amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble ».{{< /span/color >}}**
+**{{< span/color "#0d4952" >}}La mission de La boite, dans sa proposition de BOUILLON CRÉATIF, sera d’amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble »{{< /span/color >}}**
 
-Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop ou séminaire. Une boite à outils\* bien fournie permettra de proposer plusieurs approches et spécificités selon la problématique (l’appui de partenaires pourra compléter la proposition).
+Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop ou séminaire. Une boite à outils\* bien fournie permettra de proposer plusieurs approches et spécificités selon la problématique (l’appui de partenaires pourra compléter la proposition)
 
 **{{< span/color "#696a6c" >}}Ainsi, dans une approche pluridisciplinaire, vous aurez des clés pour permettre l’échange de pratiques, la prise de recul et l’initiative de vos équipes.{{< /span/color >}}**
 
