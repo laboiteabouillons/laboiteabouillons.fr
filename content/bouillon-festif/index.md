@@ -16,15 +16,21 @@ aliases:
   - /formations-rseic
 ---
 
-{{< paragraph padding="30px">}}{{< quote/color color="#e9325d" >}}Comment mes événements peuvent me donner plus de visibilité ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#e9325d" padding="30px" >}}
+Comment mes événements peuvent me donner plus de visibilité ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#e9325d" >}}Et si mes clients attendaient plus d&rsquo;interactions pour mieux parler de moi ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#e9325d" padding="30px" >}}
+Et si mes clients attendaient plus d&rsquo;interactions pour mieux parler de moi ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#e9325d" >}}Pourquoi ne pas construire ma communauté ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#e9325d" padding="30px" >}}
+Pourquoi ne pas construire ma communauté ?
+{{< /quote >}}
 
 Ces questions vous semblent plutôt pertinentes ? Vous avez tout compris !
 
-**{{< span/color "#000000" >}}Alors, reste à ouvrir de nouveaux horizons pour vous démarquer définitivement lors de vos événements pro & festifs.{{< /span/color >}}**
+**Alors, reste à ouvrir de nouveaux horizons pour vous démarquer définitivement lors de vos événements pro & festifs.**
 
 **{{< span/color "#e9325d" >}}Avec le BOUILLON FESTIF, la mission de La boite sera de provoquer l’émotion des vraies rencontres, humaines et ouvertes vers d’autres perspectives quelles qu’en soient les occasions ! petits déjeuner, afterwork, table ronde, conférence, expédition apprenante, teambuilding, séminaire, anniversaire de votre société…{{< /span/color >}}**
 
@@ -59,4 +65,6 @@ L&rsquo;accompagnement de La boite à bouillons pourra se faire à la carte : de
 
 {{< paragraph >}}{{< span/color "#e9325d" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
 
-{{< paragraph >}}{{< small >}}\*La boite à outils du bouillon créatif ne se dévoile pas à ce stade mais elle offrira toute la panoplie de jeux ludiques ou plus sérieux, d&rsquo;activités créatives, sportives ou culturelles, &#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.{{< /small >}}{{< /paragraph >}}
+{{< paragraph >}}{{< small >}}
+\*La boite à outils du bouillon créatif ne se dévoile pas à ce stade mais elle offrira toute la panoplie de jeux ludiques ou plus sérieux, d&rsquo;activités créatives, sportives ou culturelles, &#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
+{{< /small >}}{{< /paragraph >}}

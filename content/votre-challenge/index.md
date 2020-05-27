@@ -13,22 +13,20 @@ hero:
 Description: "Ils ne savaient pas que c’était impossible, alors ils l’ont fait – Mark Twain"
 url: /votre-challenge
 ---
-<p style="padding-left: 30px;">
-    <span style="color: #59bcab;"><q>La boite à bouillons aspire à faire émerger la force créative de la diversité car
-            nous avons tous beaucoup à appendre les uns des autres,</q></span>
-</p>
 
-<p style="padding-left: 30px;">
-    <span style="color: #59bcab;"><q>il suffit de s&rsquo;écouter, de rebondir sur une idée exprimée!</q></span>
-</p>
+{{< quote color="#59bcab" padding="30px" >}}
+La boite à bouillons aspire à faire émerger la force créative de la diversité car nous avons tous beaucoup à appendre les uns des autres,
+{{< /quote >}}
 
-<span style="color: #333333;"><strong>Aujourd&rsquo;hui, vous êtes :</strong></span>
+{{< quote color="#59bcab" padding="30px" >}}
+il suffit de s’écouter, de rebondir sur une idée exprimée!
+{{< /quote >}}
 
-## <span style="color: #59bcab;">Dirigeant, manager</span>
+**Aujourd&rsquo;hui, vous êtes :**
 
-**Vous pensez aussi que « La peur du changement nous pousse à l&rsquo;inaction », que la créativité individuelle et
-collective est la clé de l&rsquo;innovation et source de performance?** _Alors … la boite à bouillons vous donne les
-clés pour favoriser de véritables changements dans votre organisation._
+## {{< span/color "#59bcab" >}}Dirigeant, manager{{< /span/color >}}
+
+**Vous pensez aussi que « La peur du changement nous pousse à l&rsquo;inaction », que la créativité individuelle et collective est la clé de l&rsquo;innovation et source de performance?** _Alors … la boite à bouillons vous donne les clés pour favoriser de véritables changements dans votre organisation._
 
 [<span style="color: #59bcab;">» Le bouillon créatif</span>](https://www.laboiteabouillons.fr/bouillon-creatif/)
 

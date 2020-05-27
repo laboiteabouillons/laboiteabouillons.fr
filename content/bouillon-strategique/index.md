@@ -16,17 +16,25 @@ aliases:
   - /accompagnement-communication
 ---
 
-{{< paragraph padding="30px">}}{{< quote/color color="#59bcab" >}}Ai-je une vision à 360° de mon projet ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#59bcab" padding="30px" >}}
+Ai-je une vision à 360° de mon projet ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#59bcab" >}}Et si je sortais de ma zone de confort pour gagner en agilité ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#59bcab" padding="30px" >}}
+Et si je sortais de ma zone de confort pour gagner en agilité ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#59bcab" >}}Ma petite entreprise fonctionne, mais comment faire vraiment décoller mon activité ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#59bcab" padding="30px" >}}
+Ma petite entreprise fonctionne, mais comment faire vraiment décoller mon activité ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#59bcab" >}}Ma stratégie de développement est-elle cohérente avec mon positionnement ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#59bcab" padding="30px" >}}
+Ma stratégie de développement est-elle cohérente avec mon positionnement ?
+{{< /quote >}}
 
 Vous vous posez ce genre de questions ? C&rsquo;est plutôt bon signe !
 
-**{{< span/color "#000000" >}}Alors prenez l&rsquo;engagement avec vous-même de mobiliser toutes vos ressources pour réussir.{{< /span/color >}}**
+**Alors prenez l&rsquo;engagement avec vous-même de mobiliser toutes vos ressources pour réussir.**
 
 **{{< span/color "#59bcab" >}}La mission de La boite dans votre BOUILLON STRATÉGIQUE est de vous amener à analyser à 360° pour aligner votre proposition avec votre singularité.{{< /span/color >}}**
 
@@ -48,4 +56,6 @@ Elaine
 « Grâce à Anne-Sophie, son écoute et ses compétences, j’ai osé me lancer, avec plus de confiance et de légitimité. Cela m’a beaucoup aidé à me positionner, à mettre en avant mon offre avec plus de crédibilité et à être plus aligné avec ce que je suis ! Merci Anne Sophie. »
 {{< /testimonial >}}
 
-{{< paragraph >}}{{< small >}}\*La boite à outils, c’est une posture adaptée à chaque type de situation (conseil, animation, facilitation, coaching) et des supports ou outils choisis en conséquence, qui favorisent la créativité, déploient un espace d’intelligence collective et permettent la prise de décision.{{< /small >}}{{< /paragraph >}}
+{{< paragraph >}}{{< small >}}
+\*La boite à outils, c’est une posture adaptée à chaque type de situation (conseil, animation, facilitation, coaching) et des supports ou outils choisis en conséquence, qui favorisent la créativité, déploient un espace d’intelligence collective et permettent la prise de décision.
+{{< /small >}}{{< /paragraph >}}

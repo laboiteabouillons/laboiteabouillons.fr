@@ -14,15 +14,21 @@ Description: ""
 url: /bouillon-evasion
 ---
 
-{{< paragraph padding="30px">}}{{< quote/color color="#fec73e" >}}Comment donner de la profondeur à notre projet ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#fec73e" padding="30px" >}}
+Comment donner de la profondeur à notre projet ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#fec73e" >}}Et si nous devions vraiment prendre de la distance pour aligner nos visions ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#fec73e" padding="30px" >}}
+Et si nous devions vraiment prendre de la distance pour aligner nos visions ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#fec73e" >}}Peut-être que mon équipe a besoin de s&rsquo;oxygéner pour être plus intuitive ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#fec73e" padding="30px" >}}
+Peut-être que mon équipe a besoin de s&rsquo;oxygéner pour être plus intuitive ?
+{{< /quote >}}
 
 L&rsquo;une de ces questions revient régulièrement ? Vous allez pouvoir prendre le bateau !
 
-**{{< span/color "#000000" >}}Alors, jetez l’ancre sur l’ILE D’YEU pour choisir VOTRE HORIZON !{{< /span/color >}}**
+**Alors, jetez l’ancre sur l’ILE D’YEU pour choisir VOTRE HORIZON !**
 
 **{{< span/color "#fec73e" >}}La mission de La boite à bouillons, dans votre moment de « BOUILLON ÉVASION », sera de vous permettre de revenir à l’essentiel grâce à la mer, la nature et les bons produits locaux pour créer du lien, prendre du recul sur vos enjeux pour concrétiser une intention commune et poser un plan d’actions.{{< /span/color >}}**
 
@@ -50,4 +56,6 @@ Sophie
 
 {{< paragraph >}}{{< span/color "#fec73e" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
 
-{{< paragraph >}}{{< small >}}\*La boite à outils du bouillon évasion ne se dévoile pas à ce stade mais elle offrira toute la palette de jeux ludiques ou plus sérieux, d&rsquo;activités de découvertes des lieux et des Islais, avec une posture adaptée à chaque situation (conseil, animation, facilitation, coaching) et des supports qui donnent une place importante au partage, à &lsquo;expérimentation, à la prise de recul&#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.{{< /small >}}{{< /paragraph >}}
+{{< paragraph >}}{{< small >}}
+\*La boite à outils du bouillon évasion ne se dévoile pas à ce stade mais elle offrira toute la palette de jeux ludiques ou plus sérieux, d&rsquo;activités de découvertes des lieux et des Islais, avec une posture adaptée à chaque situation (conseil, animation, facilitation, coaching) et des supports qui donnent une place importante au partage, à &lsquo;expérimentation, à la prise de recul&#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
+{{< /small >}}{{< /paragraph >}}

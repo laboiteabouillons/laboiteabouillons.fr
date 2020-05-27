@@ -16,15 +16,21 @@ aliases:
   - /workshop-creatifs
 ---
 
-{{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Comment booster la cohésion de mon équipe grâce à ce beau projet ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#0d4952" padding="30px" >}}
+Comment booster la cohésion de mon équipe grâce à ce beau projet ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Et si on avait tout simplement besoin de mieux se connaître pour être plus performant ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#0d4952" padding="30px" >}}
+Et si on avait tout simplement besoin de mieux se connaître pour être plus performant ?
+{{< /quote >}}
 
-{{< paragraph padding="30px">}}{{< quote/color color="#0d4952" >}}Que puis-je faire pour rendre confiant mes collaborateurs dans leur capacité à se dépasser ?{{< /quote/color >}}{{< /paragraph >}}
+{{< quote color="#0d4952" padding="30px" >}}
+Que puis-je faire pour rendre confiant mes collaborateurs dans leur capacité à se dépasser ?
+{{< /quote >}}
 
 Ce genre de questions vous vient à l’esprit ? Vous y êtes presque !
 
-**{{< span/color "#000000" >}}Alors, osez ! Expérimentez d’autres méthodes simples et efficaces pour re-motiver les troupes !{{< /span/color >}}**
+**Alors, osez ! Expérimentez d’autres méthodes simples et efficaces pour re-motiver les troupes !**
 
 **{{< span/color "#0d4952" >}}La mission de La boite, dans sa proposition de BOUILLON CRÉATIF, sera d’amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble »{{< /span/color >}}**
 
@@ -50,11 +56,15 @@ Marine
 
 Florence (workshop échec)
 
-{{< paragraph >}}{{< span/color "#0d4952" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
+{{< paragraph >}}{{< span/color "#0d4952" >}}
+» [Contactez La boite](/le-reseau/)
+{{< /span/color >}}{{< /paragraph >}}
 
-{{< paragraph >}}{{< small >}}\*La boite à outils dits « d’intelligence collective » se déclinent en outils d’inter-connaissance, de
+{{< paragraph >}}{{< small >}}
+\*La boite à outils dits « d’intelligence collective » se déclinent en outils d’inter-connaissance, de
 brainstorming, d’échange, de restitution, de mise en situation, de positionnement et de débriefing. Ces outils
-donnent une place importante au partage, à l’expérimentation, à la prise de recul.{{< /small >}}{{< /paragraph >}}
+donnent une place importante au partage, à l’expérimentation, à la prise de recul.
+{{< /small >}}{{< /paragraph >}}
 
 ## {{< span/color "#0d4952" >}}Une envie d’évasion créative ?{{< /span/color >}}
 
