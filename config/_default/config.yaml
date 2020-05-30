@@ -153,42 +153,7 @@ enableMissingTranslationPlaceholders: false
 # that menu name in our theme files to access the menu.
 #sectionPagesMenu: "main"
 #
-menu:
-  main:
-    - identifier: home
-      name: Accueil
-      url: /
-      weight: 10
-
-    - identifier: esprit
-      name: "L'esprit"
-      url: /esprit/
-      weight: 20
-
-    - identifier: bouillon-strategique
-      name: "Le bouillon stratégique"
-      url: /bouillon-strategique/
-      weight: 30
-
-    - identifier: bouillon-creatif
-      name: "Le bouillon créatif"
-      url: /bouillon-creatif/
-      weight: 40
-
-    - identifier: bouillon-festif
-      name: "Le bouillon festif"
-      url: /bouillon-festif/
-      weight: 50
-
-    - identifier: les-pepites
-      name: "Les pépites"
-      url: /les-pepites/
-      weight: 60
-
-    - identifier: le-reseau
-      name: "Le réseau"
-      url: /le-reseau/
-      weight: 70
+#sectionPagesMenu: "main"
 #
 # Configure OUTPUT
 #outputFormats: # use for search. recommend not to modify

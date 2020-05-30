@@ -14,6 +14,10 @@ Description: "Les formations-actions de La boite à bouillons abordent un conten
 url: /bouillon-festif
 aliases:
   - /formations-rseic
+menu:
+  main:
+    title: "Le bouillon festif"
+    weight: 40
 ---
 
 {{< quote color="#e9325d" padding="30px" >}}

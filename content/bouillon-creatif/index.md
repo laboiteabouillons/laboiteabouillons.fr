@@ -14,6 +14,10 @@ Description: "Les workshops créatifs de La boite à bouillons propose une mise 
 url: /bouillon-creatif
 aliases:
   - /workshop-creatifs
+menu:
+  main:
+    title: "Le bouillon créatif"
+    weight: 30
 ---
 
 {{< quote color="#0d4952" padding="30px" >}}

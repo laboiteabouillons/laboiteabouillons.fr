@@ -14,6 +14,11 @@ Description: "Anne-Sophie EVRARD est la fondatrice de La boite à bouillons. Ell
 url: /la-fondatrice
 aliases :
   - /lesprit/la-fondatrice/
+menu:
+  main:
+    title: "La Fondatrice"
+    parent: "L'esprit"
+    weight: 13
 ---
 <p style="padding-left: 60px;">
     <span style="color: #59bcab;"><q> Notre vie professionnelle est aussi une succession de portes que nous franchirons

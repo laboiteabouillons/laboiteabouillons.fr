@@ -14,6 +14,10 @@ Description: "La boite à bouillons ambitionne de développer un état d'esprit 
 url: /esprit
 aliases :
   - /lesprit
+menu:
+  main:
+    title: "L'esprit"
+    weight: 10
 ---
 <p style="padding-left: 30px;">
     Si <strong>LA BOITE A BOUILLONS</strong> est ouverte à tous, elle n&rsquo;hésitera pas à accueillir les sceptiques,

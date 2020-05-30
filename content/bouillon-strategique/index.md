@@ -14,6 +14,10 @@ Description: "L'accompagnement communication de La boite à bouillons prend form
 url: /bouillon-strategique
 aliases:
   - /accompagnement-communication
+menu:
+  main:
+    title: "Le bouillon stratégique"
+    weight: 20
 ---
 
 {{< quote color="#59bcab" padding="30px" >}}

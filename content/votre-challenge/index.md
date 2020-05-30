@@ -12,6 +12,11 @@ hero:
   caption: "Quel est votre challenge quotidien ? La boite à bouillons associe l'intelligence collective pour le réaliser."
 Description: "Ils ne savaient pas que c’était impossible, alors ils l’ont fait – Mark Twain"
 url: /votre-challenge
+menu:
+  main:
+    title: "Votre Challenge"
+    parent: "L'esprit"
+    weight: 17
 ---
 
 {{< quote color="#59bcab" padding="30px" >}}

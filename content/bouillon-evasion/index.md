@@ -12,6 +12,11 @@ hero:
   caption: "Combien de fois abandonnons-nous notre chemin, attirés par l'éclat trompeur du chemin d'à côté ? Paulo Coelho"
 Description: ""
 url: /bouillon-evasion
+menu:
+  main:
+    title: "Le bouillon évasion"
+    parent: "Le bouillon créatif"
+    weight: 35
 ---
 
 {{< quote color="#fec73e" padding="30px" >}}
