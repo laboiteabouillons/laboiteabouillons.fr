@@ -24,10 +24,12 @@ Le réseau de La boite, un concentré de jus de cerveau pour dynamiser les écha
 
 Rejoindre le réseau de La boite, c’est simple, inscrivez-vous!
 
-\> pour recevoir **la newsletter de La boite** (partage d’actualités, de ressources, des thèmes d’ateliers, des pépites à découvrir,…) et/ou > pour participer aux ateliers et ainsi contribuer à la réussite d’un projet (basés sur l’expérimentation de processus d’intelligence collective).
+\> pour recevoir **la newsletter de La boite** (partage d’actualités, de ressources, des thèmes d’ateliers, des pépites à découvrir,…)
+
+\> et/ou pour participer aux ateliers et ainsi contribuer à la réussite d’un projet (basés sur l’expérimentation de processus d’intelligence collective)
 
 \> Vous serez également conviés à **des rencontres** (afterwork business, ateliers découvertes&#8230;)
 
-N’oubliez pas d’ajouter notre adresse email **{{< span/color "#59bcab" >}}contact(at)laboiteabouillons.fr{{<> /span/color >}}** dans votre carnet d&rsquo;adresses. dans votre carnet d’adresses. Votre adresse mail est exclusivement destinée à un usage interne et n’est pas transmise à des tiers.
+N’oubliez pas d’ajouter notre adresse email **{{< span/color "#59bcab" >}}contact(at)laboiteabouillons.fr{{< /span/color >}}** dans votre carnet d&rsquo;adresses. dans votre carnet d’adresses. Votre adresse mail est exclusivement destinée à un usage interne et n’est pas transmise à des tiers.
 
 {{< sendinblue user="2w6oq" version="2" >}}
