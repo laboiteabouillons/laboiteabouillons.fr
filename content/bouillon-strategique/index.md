@@ -50,7 +50,7 @@ Après un bilan de votre situation particulière, nous conviendrons d&rsquo;un p
 
 **_« Quels ont été les effets de l&rsquo;accompagnement de La boite à bouillons sur votre stratégie de développement ? »_**
 
-{{< testimonial color="#59bcab" author="Carolle Perraud" sitename="Cabinet Rêvell&rsquo;action" siteurl="https://www.revellaction.fr/" >}}
+{{< testimonial color="#59bcab" author="Carolle Perraud" sitename="Cabinet Rêvell'action" siteurl="https://www.revellaction.fr/" >}}
 « L’accompagnement de la boîte à Bouillon a été fondamental sur ma stratégie de développement. Cela m’a donné une orientation forte et une légitimité que je n’arrivais pas à trouver. Je sais mieux mettre en avant mes actions et les vendre. »
 {{< /testimonial >}}
 
