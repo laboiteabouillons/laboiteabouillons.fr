@@ -34,7 +34,7 @@ vidéo, ne peuvent pas être utilisés, vendus, distribués, modifiés, diffusé
 commerciales sans autorisation écrite de Anne-Sophie EVRARD.
 
 Les photos sont de <a title="Photographe professionnel à nantes" href="https://antoinemonie.com/" target="_blank"
-    rel="nofollow noopener">Antoine Monié Photographie</a>.
+    rel="external">Antoine Monié Photographie</a>.
 
 Ce thème utilise le framework CSS **mini.css**, conçu et construit par [@Chalarangelo](https://github.com/Chalarangelo),
 sous [licence MIT](https://github.com/Chalarangelo/mini.css/blob/master/LICENSE).
