@@ -60,9 +60,7 @@ Marine
 
 Florence (workshop échec)
 
-{{< paragraph >}}{{< span/color "#0d4952" >}}
-» [Contactez La boite](/le-reseau/)
-{{< /span/color >}}{{< /paragraph >}}
+{{< mailto color="#0d4952" >}}Contactez La boite{{< /mailto >}}
 
 {{< paragraph >}}{{< small >}}
 \*La boite à outils dits « d’intelligence collective » se déclinent en outils d’inter-connaissance, de

@@ -39,7 +39,7 @@ Ces questions vous semblent plutôt pertinentes ? Vous avez tout compris !
 **{{< span/color "#e9325d" >}}Avec le BOUILLON FESTIF, la mission de La boite sera de provoquer l’émotion des vraies rencontres, humaines et ouvertes vers d’autres perspectives quelles qu’en soient les occasions ! petits déjeuner, afterwork, table ronde, conférence, expédition apprenante, teambuilding, séminaire, anniversaire de votre société…{{< /span/color >}}**
 
 Après une présentation de votre projet d’événement, nous conviendrons ensemble du meilleur format à adopter en fonction
-de vos objectifs, de votre budget et surtout du contenu le plus pertinent ! Une boite à outils\* bien fournie permettra
+de vos objectifs, de votre budget et surtout du contenu le plus pertinent ! Une boite à outils[*]({{< relref "bouillon-festif/index.md#1" >}}) bien fournie permettra
 d’impliquer vos participants pour que vos événements soient enfin à la hauteur de vos attentes et de vos précieux
 clients ou partenaires (l’appui de partenaires pourra compléter la proposition).
 
@@ -47,7 +47,7 @@ clients ou partenaires (l’appui de partenaires pourra compléter la propositio
 
 L&rsquo;accompagnement de La boite à bouillons pourra se faire à la carte : de la sélection de prestataires adaptés à votre cahier des charges à la conceptualisation et coordination complète de votre événement.
 
-### A coeur ouvert, quelques retours clients :
+## A coeur ouvert, quelques retours clients :
 
 **_« Qu&rsquo;avez-vous particulièrement aimé dans les événements conçus par La boite à bouillons » ? »_**
 
@@ -67,8 +67,8 @@ L&rsquo;accompagnement de La boite à bouillons pourra se faire à la carte : de
 « Je suis venue à « l&rsquo;afterworkshop de La boite à bouillons » sur l&rsquo;invitation d&rsquo;une connaissance, par curiosité, alors que les outils d&rsquo;intelligence collective m&rsquo;intéressent et que j&rsquo;étais dans une période d&rsquo;ouverture à de nouveaux partenariats pour ma récente activité de médiatrice. J&rsquo;ai apprécié la convivialité et le respect qui s&rsquo;est dégagé des échanges rapides et structurés que cela a permis entre personnes ne se connaissant pas sur des sujets nous tenant à cœur. J&rsquo;ai été encore plus étonnée de la pertinence de cette proposition lorsque, plusieurs mois après, je recevais un petit rappel me permettant de mesurer et d&rsquo;apprécier le chemin parcouru depuis dans mes questionnements d&rsquo;alors. »
 {{< /testimonial >}}
 
-{{< paragraph >}}{{< span/color "#e9325d" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
+{{< mailto color="#e9325d" >}}Contactez La boite{{< /mailto >}}
 
-{{< paragraph >}}{{< small >}}
-\*La boite à outils du bouillon créatif ne se dévoile pas à ce stade mais elle offrira toute la panoplie de jeux ludiques ou plus sérieux, d&rsquo;activités créatives, sportives ou culturelles, &#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
-{{< /small >}}{{< /paragraph >}}
+{{< paragraph >}}{{< footnote/footnote id="1" >}}
+\* La boite à outils du bouillon créatif ne se dévoile pas à ce stade mais elle offrira toute la panoplie de jeux ludiques ou plus sérieux, d&rsquo;activités créatives, sportives ou culturelles, &#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
+{{< /footnote/footnote >}}{{< /paragraph >}}

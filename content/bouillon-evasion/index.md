@@ -59,7 +59,7 @@ Une offre totalement sur mesure « *YEU LIBERTÉ* » pourra être co-construit
 
 Sophie
 
-{{< paragraph >}}{{< span/color "#fec73e" >}}» [Contactez La boite](/le-reseau/){{< /span/color >}}{{< /paragraph >}}
+{{< mailto color="#fec73e" >}}Contactez La boite{{< /mailto >}}
 
 {{< paragraph >}}{{< small >}}
 \*La boite à outils du bouillon évasion ne se dévoile pas à ce stade mais elle offrira toute la palette de jeux ludiques ou plus sérieux, d&rsquo;activités de découvertes des lieux et des Islais, avec une posture adaptée à chaque situation (conseil, animation, facilitation, coaching) et des supports qui donnent une place importante au partage, à &lsquo;expérimentation, à la prise de recul&#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
