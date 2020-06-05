@@ -214,6 +214,8 @@ relativeURLs: false
 # Makes Hugo render files with ‘ugly’ permalinks. For instance, /blog/my-first-post.html instead of /blog/my-first-post/.
 uglyURLs: false
 #
+copyright: "tous droits réservés"
+#
 params:
   since: 2018
   github_user: "https://github.com/ojullien"
@@ -223,5 +225,8 @@ params:
   pygmentsCodefences: true
   pygmentsStyle: "vs"
   author: "Anne-Sophie Evrard"
-  copyright: "Copyright © 2020, Anne-Sophie Evrard, tous droits réservés."
   email: "contact@laboiteabouillons.fr"
+  address: "La boite à bouillons - Nantes"
+  phoneref: "+33663354236"
+  phonedisplay: "06 63 35 42 36"
+  facebook: "https://www.facebook.com/laboiteabouillons/"
