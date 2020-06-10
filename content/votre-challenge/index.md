@@ -10,7 +10,7 @@ hero:
   large: '/votre-challenge/images/challenge_1366x768.jpg'
   alt: "La boite à bouillons propose des workshops créatifs qui mixent contenus et intelligence collective"
   caption: "Quel est votre challenge quotidien ? La boite à bouillons associe l'intelligence collective pour le réaliser."
-Description: "Ils ne savaient pas que c’était impossible, alors ils l’ont fait – Mark Twain"
+Summary: "Ils ne savaient pas que c’était impossible, alors ils l’ont fait – Mark Twain"
 url: /votre-challenge
 menu:
   main:

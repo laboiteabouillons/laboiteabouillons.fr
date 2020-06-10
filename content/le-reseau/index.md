@@ -10,7 +10,7 @@ hero:
   large: '/le-reseau/images/reseau_1366x768.jpg'
   alt: "Rejoignez le réseau très ouvert de La boite à bouillons"
   caption: "Aucun de nous, en agissant seul, ne peut atteindre le succès – Nelson Mandela."
-Description: "Le réseau nantais de La boite à bouillons souhaite rendre dynamiques et conviviaux les échanges professionnels. Un réseau d'entraide et de partage de contacts, d'actualités nourrit par la diversité de ses membres. Un réseau nantais gratuit et ouvert à tous qui rime avec simplicité et ouverture d'esprit."
+Summary: "Le réseau nantais de La boite à bouillons souhaite rendre dynamiques et conviviaux les échanges professionnels. Un réseau d'entraide et de partage de contacts, d'actualités nourrit par la diversité de ses membres. Un réseau nantais gratuit et ouvert à tous qui rime avec simplicité et ouverture d'esprit."
 url: /le-reseau
 menu:
   main:

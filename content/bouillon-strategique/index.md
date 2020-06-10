@@ -10,7 +10,7 @@ hero:
   large: "/bouillon-strategique/images/accomp_com_1366x768.jpg"
   alt: "La boite à bouillons accompagne votre entreprise dans sa réflexion stratégique de développement"
   caption: "La stratégie, c'est l'art de faire face à son destin – Peter Drucker."
-Description: "L'accompagnement communication de La boite à bouillons prend forme à travers trois formules : la formule lancement, la formule essentielle et la formule tranquillité. Pour chacune, la méthode de La boite à bouillons est d'associer le collectif avec des processus d'intelligence collective qui permettent de faire mûrir votre projet en phase avec votre profil et vos aspirations profondes. A terme, l'objectif principal est de vous donner les clés de votre communication pour avancer en toute autonomie et en confiance."
+Summary: "L'accompagnement communication de La boite à bouillons prend forme à travers trois formules : la formule lancement, la formule essentielle et la formule tranquillité. Pour chacune, la méthode de La boite à bouillons est d'associer le collectif avec des processus d'intelligence collective qui permettent de faire mûrir votre projet en phase avec votre profil et vos aspirations profondes. A terme, l'objectif principal est de vous donner les clés de votre communication pour avancer en toute autonomie et en confiance."
 url: /bouillon-strategique
 aliases:
   - /accompagnement-communication

@@ -1,5 +1,5 @@
 # Defines the hostname and path to the root of our website, like "http://www.example.com/" or "https://demo.example.com/".
-baseURL: ""
+baseURL: "http://163.172.24.53:1313/"
 # Lets Hugo canonicalise URLs. With the default value of false, relative URLs like /css/style.css are kept in the
 # output rendered by Hugo.
 # If we set canonifyURLs to true, /css/style.css gets prefixed with the current baseURL setting.

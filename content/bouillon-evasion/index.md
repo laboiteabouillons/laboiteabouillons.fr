@@ -10,7 +10,7 @@ hero:
   large: "/bouillon-evasion/images/evasion_1366x768.jpg"
   alt: "Au bout du chemin se trouve votre porte bleu"
   caption: "Combien de fois abandonnons-nous notre chemin, attirés par l'éclat trompeur du chemin d'à côté ? Paulo Coelho"
-Description: ""
+Summary: ""
 url: /bouillon-evasion
 menu:
   main:

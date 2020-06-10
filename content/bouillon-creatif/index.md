@@ -10,7 +10,7 @@ hero:
   large: "/bouillon-creatif/images/workshop_1366x768.jpg"
   alt: "La boite à bouillons propose des workshops créatifs qui mixent contenus et intelligence collective"
   caption: "Sans ouverture d'esprit, le succès est impossible – Martha Stewart."
-Description: "Les workshops créatifs de La boite à bouillons propose une mise en action collective autour d'une thématique précise. Ces ateliers actifs proposent des temps de partages, d'expérimentation favorisant la prise de recul. A l'issue des séquences, les participants ont une vision élargie sur la problématique et disposent de méthodes collaboratives facile à mettre en place dans leur organisation."
+Summary: "Les workshops créatifs de La boite à bouillons propose une mise en action collective autour d'une thématique précise. Ces ateliers actifs proposent des temps de partages, d'expérimentation favorisant la prise de recul. A l'issue des séquences, les participants ont une vision élargie sur la problématique et disposent de méthodes collaboratives facile à mettre en place dans leur organisation."
 url: /bouillon-creatif
 aliases:
   - /workshop-creatifs

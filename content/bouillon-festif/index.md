@@ -10,7 +10,7 @@ hero:
   large: "/bouillon-festif/images/formation_1366x768.jpg"
   alt: "La boite à bouillons conceptualise vos événements pro"
   caption: "Pour être irremplaçable, il faut être différente - Coco Chanel."
-Description: "Les formations-actions de La boite à bouillons abordent un contenu thématique en associant des processus d'intelligence collective. Les stagiaires montent en compétence sur des thématiques stratégiques pour l'organisation et sont en capacité d'accompagner leurs équipes dans la conduite de changement avec des méthodes d'intelligence collective opérationnelles et efficaces."
+Summary: "Les formations-actions de La boite à bouillons abordent un contenu thématique en associant des processus d'intelligence collective. Les stagiaires montent en compétence sur des thématiques stratégiques pour l'organisation et sont en capacité d'accompagner leurs équipes dans la conduite de changement avec des méthodes d'intelligence collective opérationnelles et efficaces."
 url: /bouillon-festif
 aliases:
   - /formations-rseic

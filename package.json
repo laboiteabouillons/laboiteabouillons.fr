@@ -1,0 +1,27 @@
+{
+    "name": "laboiteabouillons.fr",
+    "version": "1.0.0",
+    "description": "La boite à bouillons. Concentré d'intelligence collective.",
+    "main": "index.html",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "hugo --environment development --cleanDestinationDir --debug --enableGitInfo --forceSyncStatic --gc --path-warnings --templateMetrics --templateMetricsHints --verbose",
+        "serve": "hugo serve --disableLiveReload --cleanDestinationDir --debug --enableGitInfo --forceSyncStatic --gc --path-warnings --templateMetrics --templateMetricsHints --verbose --environment development"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/laboiteabouillons/laboiteabouillons.fr.git"
+    },
+    "keywords": [
+        "La boite à bouillons",
+        "Hugo website"
+    ],
+    "author": "Olivier Jullien",
+    "license": "BSD-3-Clause",
+    "bugs": {
+        "url": "https://github.com/laboiteabouillons/laboiteabouillons.fr/issues"
+    },
+    "homepage": "https://github.com/laboiteabouillons/laboiteabouillons.fr#readme"
+}
