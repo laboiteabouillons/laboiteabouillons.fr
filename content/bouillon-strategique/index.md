@@ -1,5 +1,6 @@
 ---
 title: "Le bouillon stratégique"
+author: Anne-Sophie Evrard
 type: page
 draft: false
 hero:
@@ -8,7 +9,7 @@ hero:
   tablet: "/bouillon-strategique/images/accomp_com_768x1024.jpg"
   medium: "/bouillon-strategique/images/accomp_com_1024x768.jpg"
   large: "/bouillon-strategique/images/accomp_com_1366x768.jpg"
-  alt: "La boite à bouillons accompagne votre entreprise dans sa réflexion stratégique de développement"
+  alt: "Le pont Eric Tabarly à Nantes"
   caption: "La stratégie, c'est l'art de faire face à son destin – Peter Drucker."
 Summary: "L'accompagnement communication de La boite à bouillons prend forme à travers trois formules : la formule lancement, la formule essentielle et la formule tranquillité. Pour chacune, la méthode de La boite à bouillons est d'associer le collectif avec des processus d'intelligence collective qui permettent de faire mûrir votre projet en phase avec votre profil et vos aspirations profondes. A terme, l'objectif principal est de vous donner les clés de votre communication pour avancer en toute autonomie et en confiance."
 url: /bouillon-strategique
@@ -18,6 +19,7 @@ menu:
   main:
     title: "Le bouillon stratégique"
     weight: 20
+    pre: communication
 ---
 
 {{< quote color="#59bcab" padding="30px" >}}
@@ -40,7 +42,7 @@ Vous vous posez ce genre de questions ? C&rsquo;est plutôt bon signe !
 
 **Alors prenez l&rsquo;engagement avec vous-même de mobiliser toutes vos ressources pour réussir.**
 
-**{{< span/color "#59bcab" >}}La mission de La boite dans votre BOUILLON STRATÉGIQUE est de vous amener à analyser à 360° pour aligner votre proposition avec votre singularité.{{< /span/color >}}**
+**{{< paragraph padding="30px" >}}{{< span/color "#59bcab" >}}La mission de La boite dans votre BOUILLON STRATÉGIQUE est de vous amener à analyser à 360° pour aligner votre proposition avec votre singularité.{{< /span/color >}}{{< /paragraph >}}**
 
 Après un bilan de votre situation particulière, nous conviendrons d&rsquo;un parcours personnalisé co-construit. Une boite à outils[*]({{< relref "bouillon-strategique/index.md#1" >}}) bien fournie mixera entretiens et ateliers en individuel, ateliers collectifs ou workshop, et pourquoi pas un séminaire inspirant (l&rsquo;appui des partenaires pourra compléter la proposition).
 
@@ -51,7 +53,7 @@ Après un bilan de votre situation particulière, nous conviendrons d&rsquo;un p
 **_« Quels ont été les effets de l&rsquo;accompagnement de La boite à bouillons sur votre stratégie de développement ? »_**
 
 {{< testimonial color="#59bcab" author="Carolle Perraud" sitename="Cabinet Rêvell'action" siteurl="https://www.revellaction.fr/" >}}
-« L’accompagnement de la boîte à Bouillon a été fondamental sur ma stratégie de développement. Cela m’a donné une orientation forte et une légitimité que je n’arrivais pas à trouver. Je sais mieux mettre en avant mes actions et les vendre. »
+« L’accompagnement de La boîte à Bouillon a été fondamental sur ma stratégie de développement. Cela m’a donné une orientation forte et une légitimité que je n’arrivais pas à trouver. Je sais mieux mettre en avant mes actions et les vendre. »
 {{< /testimonial >}}
 
 Elaine

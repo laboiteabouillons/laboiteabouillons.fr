@@ -1,5 +1,6 @@
 ---
 title: "Le bouillon festif"
+author: Anne-Sophie Evrard
 type: page
 draft: false
 hero:
@@ -8,7 +9,7 @@ hero:
   tablet: "/bouillon-festif/images/formation_768x1024.jpg"
   medium: "/bouillon-festif/images/formation_1024x768.jpg"
   large: "/bouillon-festif/images/formation_1366x768.jpg"
-  alt: "La boite à bouillons conceptualise vos événements pro"
+  alt: "Groupe de personnes sur un bateau de compétitions"
   caption: "Pour être irremplaçable, il faut être différente - Coco Chanel."
 Summary: "Les formations-actions de La boite à bouillons abordent un contenu thématique en associant des processus d'intelligence collective. Les stagiaires montent en compétence sur des thématiques stratégiques pour l'organisation et sont en capacité d'accompagner leurs équipes dans la conduite de changement avec des méthodes d'intelligence collective opérationnelles et efficaces."
 url: /bouillon-festif
@@ -18,6 +19,7 @@ menu:
   main:
     title: "Le bouillon festif"
     weight: 40
+    pre: formation
 ---
 
 {{< quote color="#e9325d" padding="30px" >}}

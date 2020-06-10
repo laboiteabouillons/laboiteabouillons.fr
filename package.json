@@ -7,8 +7,8 @@
     "devDependencies": {},
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build": "hugo --environment development --cleanDestinationDir --debug --enableGitInfo --forceSyncStatic --gc --path-warnings --templateMetrics --templateMetricsHints --verbose",
-        "serve": "hugo serve --disableLiveReload --cleanDestinationDir --debug --enableGitInfo --forceSyncStatic --gc --path-warnings --templateMetrics --templateMetricsHints --verbose --environment development"
+        "build": "hugo --environment development --cleanDestinationDir --debug --enableGitInfo --forceSyncStatic --gc --path-warnings --templateMetrics --templateMetricsHints --verbose --baseURL http://163.172.24.53:1313/",
+        "serve": "hugo serve --disableLiveReload --cleanDestinationDir --debug --enableGitInfo --forceSyncStatic --gc --path-warnings --templateMetrics --templateMetricsHints --verbose --environment development --bind 163.172.24.53 --baseURL http://163.172.24.53:1313/"
     },
     "repository": {
         "type": "git",

@@ -1,5 +1,6 @@
 ---
 title: "Le bouillon créatif"
+author: Anne-Sophie Evrard
 type: page
 draft: false
 hero:
@@ -8,7 +9,7 @@ hero:
   tablet: "/bouillon-creatif/images/workshop_768x1024.jpg"
   medium: "/bouillon-creatif/images/workshop_1024x768.jpg"
   large: "/bouillon-creatif/images/workshop_1366x768.jpg"
-  alt: "La boite à bouillons propose des workshops créatifs qui mixent contenus et intelligence collective"
+  alt: "Mini figurines en haut d'un toboggan"
   caption: "Sans ouverture d'esprit, le succès est impossible – Martha Stewart."
 Summary: "Les workshops créatifs de La boite à bouillons propose une mise en action collective autour d'une thématique précise. Ces ateliers actifs proposent des temps de partages, d'expérimentation favorisant la prise de recul. A l'issue des séquences, les participants ont une vision élargie sur la problématique et disposent de méthodes collaboratives facile à mettre en place dans leur organisation."
 url: /bouillon-creatif
@@ -18,6 +19,7 @@ menu:
   main:
     title: "Le bouillon créatif"
     weight: 30
+    pre: workshop
 ---
 
 {{< quote color="#0d4952" padding="30px" >}}
@@ -38,7 +40,7 @@ Ce genre de questions vous vient à l’esprit ? Vous y êtes presque !
 
 **{{< span/color "#0d4952" >}}La mission de La boite, dans sa proposition de BOUILLON CRÉATIF, sera d’amener vos collaborateurs à lever les freins, dépasser les peurs, pour retrouver du plaisir dans le « faire ensemble »{{< /span/color >}}**
 
-Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop ou séminaire. Une boite à outils\* bien fournie permettra de proposer plusieurs approches et spécificités selon la problématique (l’appui de partenaires pourra compléter la proposition)
+Après une co-analyse de votre problématique, de vos enjeux, nous conviendrons ensemble d’un format d’atelier, workshop ou séminaire. Une boite à outils[*]({{< relref "bouillon-creatif/index.md#1" >}}) bien fournie permettra de proposer plusieurs approches et spécificités selon la problématique (l’appui de partenaires pourra compléter la proposition)
 
 **{{< span/color "#696a6c" >}}Ainsi, dans une approche pluridisciplinaire, vous aurez des clés pour permettre l’échange de pratiques, la prise de recul et l’initiative de vos équipes.{{< /span/color >}}**
 
@@ -62,11 +64,11 @@ Florence (workshop échec)
 
 {{< mailto color="#0d4952" >}}Contactez La boite{{< /mailto >}}
 
-{{< paragraph >}}{{< small >}}
-\*La boite à outils dits « d’intelligence collective » se déclinent en outils d’inter-connaissance, de
+{{< paragraph >}}{{< footnote/footnote id="1" >}}
+\* La boite à outils dits « d’intelligence collective » se déclinent en outils d’inter-connaissance, de
 brainstorming, d’échange, de restitution, de mise en situation, de positionnement et de débriefing. Ces outils
 donnent une place importante au partage, à l’expérimentation, à la prise de recul.
-{{< /small >}}{{< /paragraph >}}
+{{< /footnote/footnote >}}{{< /paragraph >}}
 
 ## {{< span/color "#0d4952" >}}Une envie d’évasion créative ?{{< /span/color >}}
 
@@ -76,4 +78,4 @@ donnent une place importante au partage, à l’expérimentation, à la prise de
 
 **Un temps entre parenthèse, un temps suspendu avec du bleu à l’infini dans un cadre presque familial pour revenir à l’essentiel &#8230;**
 
-{{< paragraph >}}{{< span/color "#0d4952" >}}» [En savoir plus sur Le bouillon évasion](/bouillon-evasion/){{< /span/color >}}{{< /paragraph >}}
+{{< paragraph >}}{{< hyperlink/internal style="color:#0d4952;" link="/bouillon-evasion/" rel="activité" title="En savoir plus sur Le bouillon évasion" >}}{{< /paragraph >}}

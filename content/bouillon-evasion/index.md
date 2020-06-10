@@ -1,5 +1,6 @@
 ---
 title: "Le bouillon évasion"
+author: Anne-Sophie Evrard
 type: page
 draft: false
 hero:
@@ -8,7 +9,7 @@ hero:
   tablet: "/bouillon-evasion/images/evasion_768x1024.jpg"
   medium: "/bouillon-evasion/images/evasion_1024x768.jpg"
   large: "/bouillon-evasion/images/evasion_1366x768.jpg"
-  alt: "Au bout du chemin se trouve votre porte bleu"
+  alt: "Passage entre deux murs menant à une porte bleue"
   caption: "Combien de fois abandonnons-nous notre chemin, attirés par l'éclat trompeur du chemin d'à côté ? Paulo Coelho"
 Summary: ""
 url: /bouillon-evasion
@@ -17,6 +18,7 @@ menu:
     title: "Le bouillon évasion"
     parent: "Le bouillon créatif"
     weight: 35
+    pre: activité
 ---
 
 {{< quote color="#fec73e" padding="30px" >}}
@@ -33,11 +35,13 @@ Peut-être que mon équipe a besoin de s&rsquo;oxygéner pour être plus intuiti
 
 L&rsquo;une de ces questions revient régulièrement ? Vous allez pouvoir prendre le bateau !
 
-**Alors, jetez l’ancre sur l’ILE D’YEU pour choisir VOTRE HORIZON !**
+**Alors, jetez l’ancre sur {{< hyperlink/external style="color:#fec73e;" link="https://www.youtube.com/watch?v=z_dx2_qvDQw" rel="video" title="l’ILE D’YEU" >}} pour choisir VOTRE HORIZON !**
 
 **{{< span/color "#fec73e" >}}La mission de La boite à bouillons, dans votre moment de « BOUILLON ÉVASION », sera de vous permettre de revenir à l’essentiel grâce à la mer, la nature et les bons produits locaux pour créer du lien, prendre du recul sur vos enjeux pour concrétiser une intention commune et poser un plan d’actions.{{< /span/color >}}**
 
-Après un temps de prise de connaissance de votre projet ou thématique collective, nous conviendrons ensemble du meilleur déroulé de votre temps d’évasion pour équilibrer temps de réflexion et temps de détente. Une boite à outils\* bien fournie permettra d’étayer votre voyage au grès de vos aspirations (l’appui de partenaires pourra compléter la proposition)
+&nbsp;
+
+Après un temps de prise de connaissance de votre projet ou thématique collective, nous conviendrons ensemble du meilleur déroulé de votre temps d’évasion pour équilibrer temps de réflexion et temps de détente. Une boite à outils[*]({{< relref "bouillon-evasion/index.md#1" >}}) bien fournie permettra d’étayer votre voyage au grès de vos aspirations (l’appui de partenaires pourra compléter la proposition)
 
 **{{< span/color "#696a6c" >}}Ainsi, dans une approche qui mixte émotions et actions, nous visons la transformation, le passage d&rsquo;un avant vers l&rsquo;après, individuel ou collectif, qui vous donnera les clés pour aller plus loin dans vos réflexions.{{< /span/color >}}**
 
@@ -50,7 +54,7 @@ Une offre totalement sur mesure « *YEU LIBERTÉ* » pourra être co-construit
 **_« Qu&rsquo;avez-vous aimé, apprécié dans le séminaire « Yeu évasion » ? »_**
 
 {{< testimonial color="#fec73e" author="Marion" sitename="En projet" >}}
-« J&rsquo;ai aimé l&rsquo;apparente simplicité de l&rsquo;approche, qui a permis au groupe d&rsquo;aller travailler en profondeur son projet dans sa double dimension personnelle et professionnelle. Anne-Sophie a su créer les conditions de la confiance entre les participants au travail. J&rsquo;ai apprécié la générosité de l&rsquo;approche qui a ouvert à la nature et au territoire et nous a ainsi emmené à voir plus grand. Désormais ça bouillonne !! »
+« J&rsquo;ai aimé l&rsquo;apparente simplicité de l&rsquo;approche, qui a permis au groupe d&rsquo;aller travailler en profondeur son projet dans sa double dimension personnelle et professionnelle. Anne-Sophie a su créer les conditions de la confiance entre les participants au travail. J&rsquo;ai apprécié la générosité de l&rsquo;approche qui a ouvert à la nature et au territoire et nous a ainsi emmené à voir plus grand. Désormais ça bouillonne&nbsp;!! »
 {{< /testimonial >}}
 
 {{< testimonial color="#fec73e" author="Stéphanie Royané" sitename="Formatrice" >}}
@@ -59,8 +63,10 @@ Une offre totalement sur mesure « *YEU LIBERTÉ* » pourra être co-construit
 
 Sophie
 
+&nbsp;
+
 {{< mailto color="#fec73e" >}}Contactez La boite{{< /mailto >}}
 
-{{< paragraph >}}{{< small >}}
-\*La boite à outils du bouillon évasion ne se dévoile pas à ce stade mais elle offrira toute la palette de jeux ludiques ou plus sérieux, d&rsquo;activités de découvertes des lieux et des Islais, avec une posture adaptée à chaque situation (conseil, animation, facilitation, coaching) et des supports qui donnent une place importante au partage, à &lsquo;expérimentation, à la prise de recul&#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
-{{< /small >}}{{< /paragraph >}}
+{{< paragraph >}}{{< footnote/footnote id="1" >}}
+\* La boite à outils du bouillon évasion ne se dévoile pas à ce stade mais elle offrira toute la palette de jeux ludiques ou plus sérieux, d&rsquo;activités de découvertes des lieux et des Islais, avec une posture adaptée à chaque situation (conseil, animation, facilitation, coaching) et des supports qui donnent une place importante au partage, à l&lsquo;expérimentation, à la prise de recul&#8230; Mais toujours dans le respect et la bienveillance envers tous les publics.
+{{< /footnote/footnote >}}{{< /paragraph >}}

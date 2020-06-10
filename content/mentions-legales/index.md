@@ -1,5 +1,6 @@
 ---
 title: Mentions légales
+author: Anne-Sophie Evrard
 type: page
 draft: false
 Summary: "Les mentions légales du site de La boite à bouillons, concentré d'intelligence collective. Fondatrice Anne-Sophie Evrard."

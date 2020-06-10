@@ -1,5 +1,6 @@
 ---
 title: "Le réseau"
+author: Anne-Sophie Evrard
 type: page
 draft: false
 hero:
@@ -8,7 +9,7 @@ hero:
   tablet: '/le-reseau/images/reseau_768x1024.jpg'
   medium: '/le-reseau/images/reseau_1024x768.jpg'
   large: '/le-reseau/images/reseau_1366x768.jpg'
-  alt: "Rejoignez le réseau très ouvert de La boite à bouillons"
+  alt: "Différentes personnes qui marchent en direction de la fondatrice."
   caption: "Aucun de nous, en agissant seul, ne peut atteindre le succès – Nelson Mandela."
 Summary: "Le réseau nantais de La boite à bouillons souhaite rendre dynamiques et conviviaux les échanges professionnels. Un réseau d'entraide et de partage de contacts, d'actualités nourrit par la diversité de ses membres. Un réseau nantais gratuit et ouvert à tous qui rime avec simplicité et ouverture d'esprit."
 url: /le-reseau
@@ -16,6 +17,7 @@ menu:
   main:
     title: "Le réseau"
     weight: 60
+    pre: réseau
 ---
 
 {{< quote color="#c5b286" padding="30px" >}}
