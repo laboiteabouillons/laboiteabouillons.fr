@@ -6,7 +6,7 @@ baseURL: "http://163.172.24.53:1313/"
 # (The relative URL then gets canonicalised to something like http://www.example.com/css/style.css.)
 canonifyURLs: false
 # Prevents Hugo from generating aliases. (In Hugo, an alias creates a redirect to a content page.)
-disableAliases: false
+disableAliases: true
 # Enables logging. Unless we set the log file's location with the logFile variable, that log appears in the
 # system-dependent temporary folder. For Windows, that's C:\Users\[Username]\AppData\Local\Temp. The log appears in a
 # file named hugo followed by a numerical value (like hugo047340211).
